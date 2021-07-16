@@ -1,0 +1,6 @@
+<launch>
+    <arg  name="aubo_host"   default="10.55.130.223" />
+    <node pkg="aubo_comuniate"  name="aubo_comuniate"  type="aubo_comuniate_py_3.py" output="screen" >
+         <param name="aubo_host" value="$(arg aubo_host)" />
+    </node>
+</launch>

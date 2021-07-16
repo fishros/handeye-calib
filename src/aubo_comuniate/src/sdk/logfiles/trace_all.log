@@ -1,0 +1,2166 @@
+02/04/2021 23:08:54,121 [140538140694272] [INFO ] - log4cplus started.
+02/04/2021 23:08:54,121 [140538140694272] [INFO ] - call pyauboi5_uninitialize
+02/04/2021 23:08:54,124 [140538140694272] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:06:22,077 [139818644211456] [INFO ] - log4cplus started.
+02/05/2021 00:06:22,077 [139818644211456] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:06:22,078 [139818644211456] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:06:22,078 [139818644211456] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:06:22,079 [139818644211456] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:06:22,082 [139818644211456] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:06:22,082 [139818644211456] [INFO ] - sdk log: login  success.
+02/05/2021 00:06:22,084 [139818644211456] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:06:23,088 [139818644211456] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:06:23,088 [139818644211456] [INFO ] - remove client, rshd=0
+02/05/2021 00:06:24,000 [139818590832384] [INFO ] - g_exit_system=1.
+02/05/2021 00:06:24,000 [139818590832384] [INFO ] - robot_event_thread exit.
+02/05/2021 00:06:24,000 [139818590832384] [INFO ] - robot event thread be canceled.
+02/05/2021 00:07:02,424 [140574835099392] [INFO ] - log4cplus started.
+02/05/2021 00:07:02,424 [140574835099392] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:07:02,425 [140574835099392] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:07:02,425 [140574835099392] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:07:02,425 [140574835099392] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:07:02,429 [140574835099392] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:07:02,429 [140574835099392] [INFO ] - sdk log: login  success.
+02/05/2021 00:07:02,430 [140574835099392] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:07:03,434 [140574835099392] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:07:03,434 [140574835099392] [INFO ] - remove client, rshd=0
+02/05/2021 00:07:04,000 [140574781581056] [INFO ] - g_exit_system=1.
+02/05/2021 00:07:04,000 [140574781581056] [INFO ] - robot_event_thread exit.
+02/05/2021 00:07:04,000 [140574781581056] [INFO ] - robot event thread be canceled.
+02/05/2021 00:07:12,434 [140058148034304] [INFO ] - log4cplus started.
+02/05/2021 00:07:12,434 [140058148034304] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:07:12,435 [140058148034304] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:07:12,435 [140058148034304] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:07:12,435 [140058148034304] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:07:12,440 [140058148034304] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:07:12,440 [140058148034304] [INFO ] - sdk log: login  success.
+02/05/2021 00:07:12,441 [140058148034304] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:07:13,447 [140058148034304] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:07:13,447 [140058148034304] [INFO ] - remove client, rshd=0
+02/05/2021 00:07:14,000 [140058094515968] [INFO ] - g_exit_system=1.
+02/05/2021 00:07:14,000 [140058094515968] [INFO ] - robot_event_thread exit.
+02/05/2021 00:07:14,000 [140058094515968] [INFO ] - robot event thread be canceled.
+02/05/2021 00:10:43,195 [140164488296192] [INFO ] - log4cplus started.
+02/05/2021 00:10:43,195 [140164488296192] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:10:43,195 [140164488296192] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:10:43,196 [140164488296192] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:10:43,196 [140164488296192] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:10:43,199 [140164488296192] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:10:43,199 [140164488296192] [INFO ] - sdk log: login  success.
+02/05/2021 00:10:43,200 [140164488296192] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:10:44,203 [140164488296192] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:10:44,204 [140164488296192] [INFO ] - remove client, rshd=0
+02/05/2021 00:10:45,000 [140164434794240] [INFO ] - g_exit_system=1.
+02/05/2021 00:10:45,000 [140164434794240] [INFO ] - robot_event_thread exit.
+02/05/2021 00:10:45,000 [140164434794240] [INFO ] - robot event thread be canceled.
+02/05/2021 00:19:12,274 [139997183141632] [INFO ] - log4cplus started.
+02/05/2021 00:19:12,274 [139997183141632] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:19:12,274 [139997183141632] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:19:12,274 [139997183141632] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:19:12,274 [139997183141632] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:19:12,277 [139997183141632] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:19:12,277 [139997183141632] [INFO ] - sdk log: login  success.
+02/05/2021 00:19:12,278 [139997183141632] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:19:15,387 [139997183141632] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:19:15,387 [139997183141632] [INFO ] - remove client, rshd=0
+02/05/2021 00:19:16,000 [139997130024704] [INFO ] - g_exit_system=1.
+02/05/2021 00:19:16,000 [139997130024704] [INFO ] - robot_event_thread exit.
+02/05/2021 00:19:16,000 [139997130024704] [INFO ] - robot event thread be canceled.
+02/05/2021 00:19:24,250 [140546178701056] [INFO ] - log4cplus started.
+02/05/2021 00:19:24,250 [140546178701056] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:19:24,250 [140546178701056] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:19:24,251 [140546178701056] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:19:24,251 [140546178701056] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:19:24,254 [140546178701056] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:19:24,254 [140546178701056] [INFO ] - sdk log: login  success.
+02/05/2021 00:19:24,255 [140546178701056] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:19:26,139 [140546178701056] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:19:26,139 [140546178701056] [INFO ] - remove client, rshd=0
+02/05/2021 00:19:27,000 [140546125584128] [INFO ] - g_exit_system=1.
+02/05/2021 00:19:27,000 [140546125584128] [INFO ] - robot_event_thread exit.
+02/05/2021 00:19:27,000 [140546125584128] [INFO ] - robot event thread be canceled.
+02/05/2021 00:19:43,180 [140076164491008] [INFO ] - log4cplus started.
+02/05/2021 00:19:43,180 [140076164491008] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:19:43,180 [140076164491008] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:19:43,180 [140076164491008] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:19:43,180 [140076164491008] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:19:43,183 [140076164491008] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:19:43,183 [140076164491008] [INFO ] - sdk log: login  success.
+02/05/2021 00:19:43,184 [140076164491008] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:20:07,314 [140062687254272] [INFO ] - log4cplus started.
+02/05/2021 00:20:07,314 [140062687254272] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:20:07,315 [140062687254272] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:20:07,315 [140062687254272] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:20:07,315 [140062687254272] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:20:07,319 [140062687254272] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:20:07,319 [140062687254272] [INFO ] - sdk log: login  success.
+02/05/2021 00:20:07,322 [140062687254272] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:20:09,064 [140062687254272] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:20:09,064 [140062687254272] [INFO ] - remove client, rshd=0
+02/05/2021 00:20:10,000 [140062634137344] [INFO ] - g_exit_system=1.
+02/05/2021 00:20:10,000 [140062634137344] [INFO ] - robot_event_thread exit.
+02/05/2021 00:20:10,000 [140062634137344] [INFO ] - robot event thread be canceled.
+02/05/2021 00:20:25,394 [140269210220288] [INFO ] - log4cplus started.
+02/05/2021 00:20:25,394 [140269210220288] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:20:25,395 [140269210220288] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:20:25,395 [140269210220288] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:20:25,395 [140269210220288] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:20:25,398 [140269210220288] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:20:25,399 [140269210220288] [INFO ] - sdk log: login  success.
+02/05/2021 00:20:25,400 [140269210220288] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:20:57,784 [140269210220288] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:20:57,784 [140269210220288] [INFO ] - remove client, rshd=0
+02/05/2021 00:20:58,000 [140269157103360] [INFO ] - g_exit_system=1.
+02/05/2021 00:20:58,000 [140269157103360] [INFO ] - robot_event_thread exit.
+02/05/2021 00:20:58,000 [140269157103360] [INFO ] - robot event thread be canceled.
+02/05/2021 00:21:00,825 [139872049346304] [INFO ] - log4cplus started.
+02/05/2021 00:21:00,825 [139872049346304] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:21:00,826 [139872049346304] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:21:00,826 [139872049346304] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:21:00,826 [139872049346304] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:21:00,829 [139872049346304] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:21:00,829 [139872049346304] [INFO ] - sdk log: login  success.
+02/05/2021 00:21:00,830 [139872049346304] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:21:03,536 [139872049346304] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:21:03,536 [139872049346304] [INFO ] - remove client, rshd=0
+02/05/2021 00:21:04,000 [139871996229376] [INFO ] - g_exit_system=1.
+02/05/2021 00:21:04,000 [139871996229376] [INFO ] - robot_event_thread exit.
+02/05/2021 00:21:04,000 [139871996229376] [INFO ] - robot event thread be canceled.
+02/05/2021 00:21:40,458 [140361655969536] [INFO ] - log4cplus started.
+02/05/2021 00:21:40,458 [140361655969536] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:21:40,458 [140361655969536] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:21:40,459 [140361655969536] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:21:40,459 [140361655969536] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:21:40,462 [140361655969536] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:21:40,462 [140361655969536] [INFO ] - sdk log: login  success.
+02/05/2021 00:21:40,464 [140361655969536] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:21:52,400 [140361655969536] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:21:52,400 [140361655969536] [INFO ] - remove client, rshd=0
+02/05/2021 00:21:53,000 [140361602852608] [INFO ] - g_exit_system=1.
+02/05/2021 00:21:53,000 [140361602852608] [INFO ] - robot_event_thread exit.
+02/05/2021 00:21:53,000 [140361602852608] [INFO ] - robot event thread be canceled.
+02/05/2021 00:21:59,425 [140153072862976] [INFO ] - log4cplus started.
+02/05/2021 00:21:59,425 [140153072862976] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:21:59,425 [140153072862976] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:21:59,425 [140153072862976] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:21:59,425 [140153072862976] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:21:59,429 [140153072862976] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:21:59,429 [140153072862976] [INFO ] - sdk log: login  success.
+02/05/2021 00:21:59,430 [140153072862976] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:22:10,736 [140153072862976] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:22:10,736 [140153072862976] [INFO ] - remove client, rshd=0
+02/05/2021 00:22:11,000 [140153019746048] [INFO ] - g_exit_system=1.
+02/05/2021 00:22:11,000 [140153019746048] [INFO ] - robot_event_thread exit.
+02/05/2021 00:22:11,000 [140153019746048] [INFO ] - robot event thread be canceled.
+02/05/2021 00:23:51,480 [140531282364160] [INFO ] - log4cplus started.
+02/05/2021 00:23:51,480 [140531282364160] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:23:51,480 [140531282364160] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:23:51,480 [140531282364160] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:23:51,482 [140531282364160] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:23:51,485 [140531282364160] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:23:51,485 [140531282364160] [INFO ] - sdk log: login  success.
+02/05/2021 00:23:51,486 [140531282364160] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:23:56,631 [140531282364160] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:23:56,631 [140531282364160] [INFO ] - remove client, rshd=0
+02/05/2021 00:23:57,000 [140531229247232] [INFO ] - g_exit_system=1.
+02/05/2021 00:23:57,000 [140531229247232] [INFO ] - robot_event_thread exit.
+02/05/2021 00:23:57,000 [140531229247232] [INFO ] - robot event thread be canceled.
+02/05/2021 00:33:32,091 [139700140037888] [INFO ] - log4cplus started.
+02/05/2021 00:33:32,091 [139700140037888] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:33:32,092 [139700140037888] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:33:32,092 [139700140037888] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:33:32,092 [139700140037888] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:33:32,095 [139700140037888] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:33:32,095 [139700140037888] [INFO ] - sdk log: login  success.
+02/05/2021 00:33:32,097 [139700140037888] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:34:26,527 [139700140037888] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:34:26,527 [139700140037888] [INFO ] - remove client, rshd=0
+02/05/2021 00:34:27,000 [139700086920960] [INFO ] - g_exit_system=1.
+02/05/2021 00:34:27,000 [139700086920960] [INFO ] - robot_event_thread exit.
+02/05/2021 00:34:27,000 [139700086920960] [INFO ] - robot event thread be canceled.
+02/05/2021 00:34:28,359 [140089328531200] [INFO ] - log4cplus started.
+02/05/2021 00:34:28,359 [140089328531200] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:34:28,360 [140089328531200] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:34:28,360 [140089328531200] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:34:28,360 [140089328531200] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:34:28,363 [140089328531200] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:34:28,363 [140089328531200] [INFO ] - sdk log: login  success.
+02/05/2021 00:34:28,365 [140089328531200] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:34:31,536 [140089328531200] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:34:31,536 [140089328531200] [INFO ] - remove client, rshd=0
+02/05/2021 00:34:32,000 [140089275414272] [INFO ] - g_exit_system=1.
+02/05/2021 00:34:32,000 [140089275414272] [INFO ] - robot_event_thread exit.
+02/05/2021 00:34:32,000 [140089275414272] [INFO ] - robot event thread be canceled.
+02/05/2021 00:34:42,281 [139752231704320] [INFO ] - log4cplus started.
+02/05/2021 00:34:42,281 [139752231704320] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:34:42,281 [139752231704320] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:34:42,281 [139752231704320] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:34:42,282 [139752231704320] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:34:42,285 [139752231704320] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:34:42,285 [139752231704320] [INFO ] - sdk log: login  success.
+02/05/2021 00:34:42,286 [139752231704320] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:35:26,057 [139752168093440] [INFO ] - emit event type:39 code:0 str:{"addr":1,"status":1.0}, rshd=0
+02/05/2021 00:35:58,860 [140228227811072] [INFO ] - log4cplus started.
+02/05/2021 00:35:58,860 [140228227811072] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:35:58,860 [140228227811072] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:35:58,861 [140228227811072] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:35:58,861 [140228227811072] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:35:58,865 [140228227811072] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:35:58,865 [140228227811072] [INFO ] - sdk log: login  success.
+02/05/2021 00:35:58,866 [140228227811072] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:36:06,947 [140228164200192] [INFO ] - emit event type:39 code:0 str:{"addr":1,"status":1.0}, rshd=0
+02/05/2021 00:36:33,229 [140534429136640] [INFO ] - log4cplus started.
+02/05/2021 00:36:33,229 [140534429136640] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:36:33,230 [140534429136640] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:36:33,230 [140534429136640] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:36:33,230 [140534429136640] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:36:33,234 [140534429136640] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:36:33,234 [140534429136640] [INFO ] - sdk log: login  success.
+02/05/2021 00:36:33,235 [140534429136640] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:36:38,190 [140534429136640] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:36:38,190 [140534429136640] [INFO ] - remove client, rshd=0
+02/05/2021 00:36:39,000 [140534376019712] [INFO ] - g_exit_system=1.
+02/05/2021 00:36:39,000 [140534376019712] [INFO ] - robot_event_thread exit.
+02/05/2021 00:36:39,000 [140534376019712] [INFO ] - robot event thread be canceled.
+02/05/2021 00:37:25,718 [140496801408768] [INFO ] - log4cplus started.
+02/05/2021 00:37:25,718 [140496801408768] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:37:25,718 [140496801408768] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:37:25,718 [140496801408768] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:37:25,718 [140496801408768] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:37:25,723 [140496801408768] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:37:25,723 [140496801408768] [INFO ] - sdk log: login  success.
+02/05/2021 00:37:25,724 [140496801408768] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:39:08,837 [140496801408768] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:39:08,838 [140496801408768] [INFO ] - remove client, rshd=0
+02/05/2021 00:39:09,000 [140496748291840] [INFO ] - g_exit_system=1.
+02/05/2021 00:39:09,000 [140496748291840] [INFO ] - robot_event_thread exit.
+02/05/2021 00:39:09,000 [140496748291840] [INFO ] - robot event thread be canceled.
+02/05/2021 00:39:10,306 [140410271180544] [INFO ] - log4cplus started.
+02/05/2021 00:39:10,306 [140410271180544] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:39:10,306 [140410271180544] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:39:10,307 [140410271180544] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:39:10,307 [140410271180544] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:39:10,310 [140410271180544] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:39:10,310 [140410271180544] [INFO ] - sdk log: login  success.
+02/05/2021 00:39:10,312 [140410271180544] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:39:12,359 [140410271180544] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:39:12,359 [140410271180544] [INFO ] - remove client, rshd=0
+02/05/2021 00:39:13,000 [140410218063616] [INFO ] - g_exit_system=1.
+02/05/2021 00:39:13,000 [140410218063616] [INFO ] - robot_event_thread exit.
+02/05/2021 00:39:13,000 [140410218063616] [INFO ] - robot event thread be canceled.
+02/05/2021 00:39:17,436 [140638387652352] [INFO ] - log4cplus started.
+02/05/2021 00:39:17,436 [140638387652352] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:39:17,436 [140638387652352] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:39:17,436 [140638387652352] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:39:17,437 [140638387652352] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:39:17,440 [140638387652352] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:39:17,440 [140638387652352] [INFO ] - sdk log: login  success.
+02/05/2021 00:39:17,441 [140638387652352] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:39:19,574 [140638387652352] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:39:19,574 [140638387652352] [INFO ] - remove client, rshd=0
+02/05/2021 00:39:20,000 [140638334535424] [INFO ] - g_exit_system=1.
+02/05/2021 00:39:20,000 [140638334535424] [INFO ] - robot_event_thread exit.
+02/05/2021 00:39:20,000 [140638334535424] [INFO ] - robot event thread be canceled.
+02/05/2021 00:39:31,117 [139665472075520] [INFO ] - log4cplus started.
+02/05/2021 00:39:31,118 [139665472075520] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:39:31,118 [139665472075520] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:39:31,119 [139665472075520] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:39:31,119 [139665472075520] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:39:31,122 [139665472075520] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:39:31,122 [139665472075520] [INFO ] - sdk log: login  success.
+02/05/2021 00:39:31,123 [139665472075520] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:39:33,709 [139665472075520] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:39:33,710 [139665472075520] [INFO ] - remove client, rshd=0
+02/05/2021 00:39:34,000 [139665418958592] [INFO ] - g_exit_system=1.
+02/05/2021 00:39:34,000 [139665418958592] [INFO ] - robot_event_thread exit.
+02/05/2021 00:39:34,000 [139665418958592] [INFO ] - robot event thread be canceled.
+02/05/2021 00:39:59,029 [139883887417088] [INFO ] - log4cplus started.
+02/05/2021 00:39:59,029 [139883887417088] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:39:59,030 [139883887417088] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:39:59,030 [139883887417088] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:39:59,032 [139883887417088] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:39:59,035 [139883887417088] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:39:59,035 [139883887417088] [INFO ] - sdk log: login  success.
+02/05/2021 00:39:59,036 [139883887417088] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:40:00,039 [139883887417088] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:40:00,039 [139883887417088] [INFO ] - remove client, rshd=0
+02/05/2021 00:40:01,000 [139883834300160] [INFO ] - g_exit_system=1.
+02/05/2021 00:40:01,000 [139883834300160] [INFO ] - robot_event_thread exit.
+02/05/2021 00:40:01,000 [139883834300160] [INFO ] - robot event thread be canceled.
+02/05/2021 00:40:09,072 [140317951117056] [INFO ] - log4cplus started.
+02/05/2021 00:40:09,072 [140317951117056] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:40:09,072 [140317951117056] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:40:09,073 [140317951117056] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:40:09,073 [140317951117056] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:40:09,076 [140317951117056] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:40:09,076 [140317951117056] [INFO ] - sdk log: login  success.
+02/05/2021 00:40:09,078 [140317951117056] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:40:10,080 [140317951117056] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:40:10,080 [140317951117056] [INFO ] - remove client, rshd=0
+02/05/2021 00:40:11,000 [140317898000128] [INFO ] - g_exit_system=1.
+02/05/2021 00:40:11,000 [140317898000128] [INFO ] - robot_event_thread exit.
+02/05/2021 00:40:11,000 [140317898000128] [INFO ] - robot event thread be canceled.
+02/05/2021 00:40:31,725 [140571369985792] [INFO ] - log4cplus started.
+02/05/2021 00:40:31,725 [140571369985792] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:40:31,725 [140571369985792] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:40:31,725 [140571369985792] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:40:31,726 [140571369985792] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:40:31,729 [140571369985792] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:40:31,729 [140571369985792] [INFO ] - sdk log: login  success.
+02/05/2021 00:40:31,731 [140571369985792] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:40:32,734 [140571369985792] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:40:32,734 [140571369985792] [INFO ] - remove client, rshd=0
+02/05/2021 00:40:33,000 [140571316868864] [INFO ] - g_exit_system=1.
+02/05/2021 00:40:33,000 [140571316868864] [INFO ] - robot_event_thread exit.
+02/05/2021 00:40:33,000 [140571316868864] [INFO ] - robot event thread be canceled.
+02/05/2021 00:40:57,183 [140686657709824] [INFO ] - log4cplus started.
+02/05/2021 00:40:57,183 [140686657709824] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:40:57,184 [140686657709824] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:40:57,184 [140686657709824] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:40:57,184 [140686657709824] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:40:57,189 [140686657709824] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:40:57,189 [140686657709824] [INFO ] - sdk log: login  success.
+02/05/2021 00:40:57,191 [140686657709824] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:40:58,194 [140686657709824] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:40:58,194 [140686657709824] [INFO ] - remove client, rshd=0
+02/05/2021 00:40:59,000 [140686604592896] [INFO ] - g_exit_system=1.
+02/05/2021 00:40:59,000 [140686604592896] [INFO ] - robot_event_thread exit.
+02/05/2021 00:40:59,000 [140686604592896] [INFO ] - robot event thread be canceled.
+02/05/2021 00:41:03,372 [140401128711936] [INFO ] - log4cplus started.
+02/05/2021 00:41:03,372 [140401128711936] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:41:03,373 [140401128711936] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:41:03,373 [140401128711936] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:41:03,374 [140401128711936] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:41:03,378 [140401128711936] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:41:03,378 [140401128711936] [INFO ] - sdk log: login  success.
+02/05/2021 00:41:03,381 [140401128711936] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:41:04,384 [140401128711936] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:41:04,384 [140401128711936] [INFO ] - remove client, rshd=0
+02/05/2021 00:41:05,000 [140401075595008] [INFO ] - g_exit_system=1.
+02/05/2021 00:41:05,000 [140401075595008] [INFO ] - robot_event_thread exit.
+02/05/2021 00:41:05,000 [140401075595008] [INFO ] - robot event thread be canceled.
+02/05/2021 00:41:17,780 [140158845486848] [INFO ] - log4cplus started.
+02/05/2021 00:41:17,780 [140158845486848] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:41:17,781 [140158845486848] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:41:17,781 [140158845486848] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:41:17,781 [140158845486848] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:41:17,784 [140158845486848] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:41:17,784 [140158845486848] [INFO ] - sdk log: login  success.
+02/05/2021 00:41:17,786 [140158845486848] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:41:18,789 [140158845486848] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:41:18,789 [140158845486848] [INFO ] - remove client, rshd=0
+02/05/2021 00:41:19,000 [140158792369920] [INFO ] - g_exit_system=1.
+02/05/2021 00:41:19,000 [140158792369920] [INFO ] - robot_event_thread exit.
+02/05/2021 00:41:19,000 [140158792369920] [INFO ] - robot event thread be canceled.
+02/05/2021 00:41:30,107 [140118931662592] [INFO ] - log4cplus started.
+02/05/2021 00:41:30,107 [140118931662592] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:41:30,108 [140118931662592] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:41:30,108 [140118931662592] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:41:30,108 [140118931662592] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:41:30,114 [140118931662592] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:41:30,114 [140118931662592] [INFO ] - sdk log: login  success.
+02/05/2021 00:41:30,116 [140118931662592] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:41:31,119 [140118931662592] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:41:31,119 [140118931662592] [INFO ] - remove client, rshd=0
+02/05/2021 00:41:32,000 [140118878545664] [INFO ] - g_exit_system=1.
+02/05/2021 00:41:32,000 [140118878545664] [INFO ] - robot_event_thread exit.
+02/05/2021 00:41:32,000 [140118878545664] [INFO ] - robot event thread be canceled.
+02/05/2021 00:42:34,158 [140179246876416] [INFO ] - log4cplus started.
+02/05/2021 00:42:34,158 [140179246876416] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:42:34,159 [140179246876416] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:42:34,160 [140179246876416] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:42:34,160 [140179246876416] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:42:34,164 [140179246876416] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:42:34,164 [140179246876416] [INFO ] - sdk log: login  success.
+02/05/2021 00:42:34,165 [140179246876416] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:42:35,169 [140179246876416] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:42:35,169 [140179246876416] [INFO ] - remove client, rshd=0
+02/05/2021 00:42:36,000 [140179193759488] [INFO ] - g_exit_system=1.
+02/05/2021 00:42:36,000 [140179193759488] [INFO ] - robot_event_thread exit.
+02/05/2021 00:42:36,000 [140179193759488] [INFO ] - robot event thread be canceled.
+02/05/2021 00:42:55,520 [140445217191680] [INFO ] - log4cplus started.
+02/05/2021 00:42:55,520 [140445217191680] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:42:55,520 [140445217191680] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:42:55,520 [140445217191680] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:42:55,521 [140445217191680] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:42:55,524 [140445217191680] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:42:55,524 [140445217191680] [INFO ] - sdk log: login  success.
+02/05/2021 00:42:55,525 [140445217191680] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:42:56,528 [140445217191680] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:42:56,528 [140445217191680] [INFO ] - remove client, rshd=0
+02/05/2021 00:42:57,000 [140445164074752] [INFO ] - g_exit_system=1.
+02/05/2021 00:42:57,000 [140445164074752] [INFO ] - robot_event_thread exit.
+02/05/2021 00:42:57,000 [140445164074752] [INFO ] - robot event thread be canceled.
+02/05/2021 00:43:11,786 [140294287775488] [INFO ] - log4cplus started.
+02/05/2021 00:43:11,786 [140294287775488] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:43:11,787 [140294287775488] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:43:11,787 [140294287775488] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:43:11,787 [140294287775488] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:43:11,791 [140294287775488] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:43:11,792 [140294287775488] [INFO ] - sdk log: login  success.
+02/05/2021 00:43:11,793 [140294287775488] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:43:12,798 [140294287775488] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:43:12,798 [140294287775488] [INFO ] - remove client, rshd=0
+02/05/2021 00:43:13,000 [140294234658560] [INFO ] - g_exit_system=1.
+02/05/2021 00:43:13,000 [140294234658560] [INFO ] - robot_event_thread exit.
+02/05/2021 00:43:13,000 [140294234658560] [INFO ] - robot event thread be canceled.
+02/05/2021 00:43:31,201 [140199231592192] [INFO ] - log4cplus started.
+02/05/2021 00:43:31,201 [140199231592192] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:43:31,201 [140199231592192] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:43:31,202 [140199231592192] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:43:31,202 [140199231592192] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:43:31,206 [140199231592192] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:43:31,206 [140199231592192] [INFO ] - sdk log: login  success.
+02/05/2021 00:43:31,208 [140199231592192] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:43:32,211 [140199231592192] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:43:32,211 [140199231592192] [INFO ] - remove client, rshd=0
+02/05/2021 00:43:33,000 [140199178475264] [INFO ] - g_exit_system=1.
+02/05/2021 00:43:33,000 [140199178475264] [INFO ] - robot_event_thread exit.
+02/05/2021 00:43:33,000 [140199178475264] [INFO ] - robot event thread be canceled.
+02/05/2021 00:43:49,109 [139665831175936] [INFO ] - log4cplus started.
+02/05/2021 00:43:49,109 [139665831175936] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:43:49,109 [139665831175936] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:43:49,109 [139665831175936] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:43:49,110 [139665831175936] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:43:49,113 [139665831175936] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:43:49,113 [139665831175936] [INFO ] - sdk log: login  success.
+02/05/2021 00:43:49,114 [139665831175936] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:43:50,117 [139665831175936] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:43:50,117 [139665831175936] [INFO ] - remove client, rshd=0
+02/05/2021 00:43:51,000 [139665778059008] [INFO ] - g_exit_system=1.
+02/05/2021 00:43:51,000 [139665778059008] [INFO ] - robot_event_thread exit.
+02/05/2021 00:43:51,000 [139665778059008] [INFO ] - robot event thread be canceled.
+02/05/2021 00:44:28,693 [140446914344704] [INFO ] - log4cplus started.
+02/05/2021 00:44:28,693 [140446914344704] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:44:28,694 [140446914344704] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:44:28,694 [140446914344704] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:44:28,694 [140446914344704] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:44:28,700 [140446914344704] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:44:28,700 [140446914344704] [INFO ] - sdk log: login  success.
+02/05/2021 00:44:28,702 [140446914344704] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:44:29,705 [140446914344704] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:44:29,705 [140446914344704] [INFO ] - remove client, rshd=0
+02/05/2021 00:44:30,000 [140446861248256] [INFO ] - g_exit_system=1.
+02/05/2021 00:44:30,000 [140446861248256] [INFO ] - robot_event_thread exit.
+02/05/2021 00:44:30,000 [140446861248256] [INFO ] - robot event thread be canceled.
+02/05/2021 00:44:56,598 [139668809381632] [INFO ] - log4cplus started.
+02/05/2021 00:44:56,598 [139668809381632] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:44:56,599 [139668809381632] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:44:56,599 [139668809381632] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:44:56,599 [139668809381632] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:44:56,603 [139668809381632] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:44:56,603 [139668809381632] [INFO ] - sdk log: login  success.
+02/05/2021 00:44:56,604 [139668809381632] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:44:57,607 [139668809381632] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:44:57,607 [139668809381632] [INFO ] - remove client, rshd=0
+02/05/2021 00:44:58,000 [139668756264704] [INFO ] - g_exit_system=1.
+02/05/2021 00:44:58,000 [139668756264704] [INFO ] - robot_event_thread exit.
+02/05/2021 00:44:58,000 [139668756264704] [INFO ] - robot event thread be canceled.
+02/05/2021 00:45:21,517 [139856530269952] [INFO ] - log4cplus started.
+02/05/2021 00:45:21,517 [139856530269952] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:45:21,517 [139856530269952] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:45:21,517 [139856530269952] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:45:21,517 [139856530269952] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:45:21,521 [139856530269952] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:45:21,521 [139856530269952] [INFO ] - sdk log: login  success.
+02/05/2021 00:45:21,523 [139856530269952] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:45:22,526 [139856530269952] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:45:22,526 [139856530269952] [INFO ] - remove client, rshd=0
+02/05/2021 00:45:23,000 [139856477153024] [INFO ] - g_exit_system=1.
+02/05/2021 00:45:23,000 [139856477153024] [INFO ] - robot_event_thread exit.
+02/05/2021 00:45:23,000 [139856477153024] [INFO ] - robot event thread be canceled.
+02/05/2021 00:45:44,939 [140273684498176] [INFO ] - log4cplus started.
+02/05/2021 00:45:44,939 [140273684498176] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:45:44,939 [140273684498176] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:45:44,939 [140273684498176] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:45:44,940 [140273684498176] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:45:44,944 [140273684498176] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:45:44,944 [140273684498176] [INFO ] - sdk log: login  success.
+02/05/2021 00:45:44,945 [140273684498176] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:45:45,948 [140273684498176] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:45:45,948 [140273684498176] [INFO ] - remove client, rshd=0
+02/05/2021 00:45:46,000 [140273631381248] [INFO ] - g_exit_system=1.
+02/05/2021 00:45:46,000 [140273631381248] [INFO ] - robot_event_thread exit.
+02/05/2021 00:45:46,000 [140273631381248] [INFO ] - robot event thread be canceled.
+02/05/2021 00:46:01,534 [140542875641600] [INFO ] - log4cplus started.
+02/05/2021 00:46:01,534 [140542875641600] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:46:01,535 [140542875641600] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:46:01,535 [140542875641600] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:46:01,535 [140542875641600] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:46:01,538 [140542875641600] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:46:01,538 [140542875641600] [INFO ] - sdk log: login  success.
+02/05/2021 00:46:01,540 [140542875641600] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:46:02,542 [140542875641600] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:46:02,542 [140542875641600] [INFO ] - remove client, rshd=0
+02/05/2021 00:46:03,000 [140542822524672] [INFO ] - g_exit_system=1.
+02/05/2021 00:46:03,000 [140542822524672] [INFO ] - robot_event_thread exit.
+02/05/2021 00:46:03,000 [140542822524672] [INFO ] - robot event thread be canceled.
+02/05/2021 00:46:28,780 [140443924109056] [INFO ] - log4cplus started.
+02/05/2021 00:46:28,780 [140443924109056] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:46:28,781 [140443924109056] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:46:28,781 [140443924109056] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:46:28,782 [140443924109056] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:46:28,785 [140443924109056] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:46:28,785 [140443924109056] [INFO ] - sdk log: login  success.
+02/05/2021 00:46:28,786 [140443924109056] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:46:29,790 [140443924109056] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:46:29,790 [140443924109056] [INFO ] - remove client, rshd=0
+02/05/2021 00:46:30,000 [140443870992128] [INFO ] - g_exit_system=1.
+02/05/2021 00:46:30,000 [140443870992128] [INFO ] - robot_event_thread exit.
+02/05/2021 00:46:30,000 [140443870992128] [INFO ] - robot event thread be canceled.
+02/05/2021 00:47:03,865 [139872945424128] [INFO ] - log4cplus started.
+02/05/2021 00:47:03,865 [139872945424128] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:47:03,865 [139872945424128] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:47:03,865 [139872945424128] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:47:03,866 [139872945424128] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:47:03,869 [139872945424128] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:47:03,870 [139872945424128] [INFO ] - sdk log: login  success.
+02/05/2021 00:47:03,871 [139872945424128] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:47:04,874 [139872945424128] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:47:04,874 [139872945424128] [INFO ] - remove client, rshd=0
+02/05/2021 00:47:05,000 [139872892307200] [INFO ] - g_exit_system=1.
+02/05/2021 00:47:05,000 [139872892307200] [INFO ] - robot_event_thread exit.
+02/05/2021 00:47:05,000 [139872892307200] [INFO ] - robot event thread be canceled.
+02/05/2021 00:47:22,617 [140319305176832] [INFO ] - log4cplus started.
+02/05/2021 00:47:22,618 [140319305176832] [INFO ] - call pyauboi5_initialize
+02/05/2021 00:47:22,618 [140319305176832] [INFO ] - creat context succ RSHD=0
+02/05/2021 00:47:22,618 [140319305176832] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 00:47:22,619 [140319305176832] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 00:47:22,622 [140319305176832] [INFO ] - sdk log: set dhparam success. type:2, DhParam:0.647000,0.600500,0.163200,0.201300,0.102500,0.094000
+02/05/2021 00:47:22,622 [140319305176832] [INFO ] - sdk log: login  success.
+02/05/2021 00:47:22,623 [140319305176832] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 00:47:23,626 [140319305176832] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 00:47:23,627 [140319305176832] [INFO ] - remove client, rshd=0
+02/05/2021 00:47:24,000 [140319252059904] [INFO ] - g_exit_system=1.
+02/05/2021 00:47:24,000 [140319252059904] [INFO ] - robot_event_thread exit.
+02/05/2021 00:47:24,000 [140319252059904] [INFO ] - robot event thread be canceled.
+02/05/2021 13:06:29,803 [139824303249152] [INFO ] - log4cplus started.
+02/05/2021 13:06:29,803 [139824303249152] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:06:29,803 [139824303249152] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:06:29,804 [139824303249152] [INFO ] - rshd:0---addr:192.168.1.100---port:8899
+02/05/2021 13:06:29,804 [139824303249152] [ERROR] - sdk log: Login service connect server failed.
+02/05/2021 13:06:29,804 [139824303249152] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:06:29,804 [139824303249152] [INFO ] - remove client, rshd=0
+02/05/2021 13:06:31,000 [139824303249152] [INFO ] - cancel robot event thread...
+02/05/2021 13:06:31,000 [139824249747200] [INFO ] - g_exit_system=1.
+02/05/2021 13:06:31,000 [139824249747200] [INFO ] - g_exit_system=1.
+02/05/2021 13:07:01,714 [139809668482816] [INFO ] - log4cplus started.
+02/05/2021 13:07:01,714 [139809668482816] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:07:01,714 [139809668482816] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:07:01,714 [139809668482816] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:07:01,715 [139809668482816] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:07:01,718 [139809668482816] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:07:01,718 [139809668482816] [INFO ] - sdk log: login  success.
+02/05/2021 13:07:01,720 [139809668482816] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:07:02,723 [139809668482816] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:07:02,723 [139809668482816] [INFO ] - remove client, rshd=0
+02/05/2021 13:07:03,000 [139809615365888] [INFO ] - g_exit_system=1.
+02/05/2021 13:07:03,000 [139809615365888] [INFO ] - robot_event_thread exit.
+02/05/2021 13:07:03,000 [139809615365888] [INFO ] - robot event thread be canceled.
+02/05/2021 13:07:08,772 [140453326055168] [INFO ] - log4cplus started.
+02/05/2021 13:07:08,772 [140453326055168] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:07:08,772 [140453326055168] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:07:08,773 [140453326055168] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:07:08,773 [140453326055168] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:07:08,776 [140453326055168] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:07:08,776 [140453326055168] [INFO ] - sdk log: login  success.
+02/05/2021 13:07:08,777 [140453326055168] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:07:24,431 [140453262444288] [INFO ] - emit event type:39 code:0 str:{"addr":1,"status":1.0}, rshd=0
+02/05/2021 13:07:24,444 [140453272938240] [INFO ] - call event_callback, type:39 code:0 str:{"addr":1,"status":1.0}
+02/05/2021 13:07:24,486 [140453262444288] [INFO ] - emit event type:39 code:0 str:{"addr":9,"status":1.0}, rshd=0
+02/05/2021 13:07:24,558 [140453272938240] [INFO ] - call event_callback, type:39 code:0 str:{"addr":9,"status":1.0}
+02/05/2021 13:07:24,894 [140453262444288] [INFO ] - emit event type:44 code:0 str:{"code":0,"text":"RobotMoveControlStopDone."}, rshd=0
+02/05/2021 13:07:24,902 [140453262444288] [INFO ] - emit event type:1300 code:0 str:{"code":0,"text":"robot controller enter stop state."}, rshd=0
+02/05/2021 13:07:24,908 [140453272938240] [INFO ] - call event_callback, type:44 code:0 str:{"code":0,"text":"RobotMoveControlStopDone."}
+02/05/2021 13:07:24,908 [140453272938240] [INFO ] - call event_callback, type:1300 code:0 str:{"code":0,"text":"robot controller enter stop state."}
+02/05/2021 13:07:24,955 [140453262444288] [INFO ] - emit event type:39 code:0 str:{"addr":1,"status":0.0}, rshd=0
+02/05/2021 13:07:25,002 [140453262444288] [INFO ] - emit event type:39 code:0 str:{"addr":9,"status":0.0}, rshd=0
+02/05/2021 13:07:25,008 [140453272938240] [INFO ] - call event_callback, type:39 code:0 str:{"addr":1,"status":0.0}
+02/05/2021 13:07:25,008 [140453272938240] [INFO ] - call event_callback, type:39 code:0 str:{"addr":9,"status":0.0}
+02/05/2021 13:07:26,675 [140453262444288] [INFO ] - emit event type:39 code:0 str:{"addr":1,"status":1.0}, rshd=0
+02/05/2021 13:07:26,696 [140453272938240] [INFO ] - call event_callback, type:39 code:0 str:{"addr":1,"status":1.0}
+02/05/2021 13:07:26,774 [140453262444288] [INFO ] - emit event type:39 code:0 str:{"addr":9,"status":1.0}, rshd=0
+02/05/2021 13:07:26,780 [140453272938240] [INFO ] - call event_callback, type:39 code:0 str:{"addr":9,"status":1.0}
+02/05/2021 13:07:27,691 [140453262444288] [INFO ] - emit event type:44 code:0 str:{"code":0,"text":"RobotMoveControlStopDone."}, rshd=0
+02/05/2021 13:07:27,806 [140453272938240] [INFO ] - call event_callback, type:44 code:0 str:{"code":0,"text":"RobotMoveControlStopDone."}
+02/05/2021 13:07:28,606 [140453326055168] [ERROR] - sdk log: Wait response timeout. cmd type: CommunicationType_GetRobotJointAngle
+02/05/2021 13:07:28,606 [140453326055168] [ERROR] - rs_get_current_waypoint failed!
+02/05/2021 13:07:28,606 [140453262444288] [INFO ] - emit event type:1300 code:0 str:{"code":0,"text":"robot controller enter stop state."}, rshd=0
+02/05/2021 13:07:28,606 [140453262444288] [ERROR] - sdk communication log:  select error, ret=-1.
+02/05/2021 13:07:28,606 [140453272938240] [INFO ] - call event_callback, type:1300 code:0 str:{"code":0,"text":"robot controller enter stop state."}
+02/05/2021 13:07:29,107 [140453326055168] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:07:29,107 [140453326055168] [INFO ] - remove client, rshd=0
+02/05/2021 13:07:30,000 [140453272938240] [INFO ] - g_exit_system=1.
+02/05/2021 13:07:30,000 [140453272938240] [INFO ] - robot_event_thread exit.
+02/05/2021 13:07:30,000 [140453272938240] [INFO ] - robot event thread be canceled.
+02/05/2021 13:07:32,998 [140475209262848] [INFO ] - log4cplus started.
+02/05/2021 13:07:32,998 [140475209262848] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:07:32,999 [140475209262848] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:07:32,999 [140475209262848] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:07:32,999 [140475209262848] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:07:33,007 [140475209262848] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:07:33,007 [140475209262848] [INFO ] - sdk log: login  success.
+02/05/2021 13:07:33,011 [140475209262848] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:07:35,769 [140475145651968] [INFO ] - emit event type:39 code:0 str:{"addr":1,"status":1.0}, rshd=0
+02/05/2021 13:07:35,777 [140475156145920] [INFO ] - call event_callback, type:39 code:0 str:{"addr":1,"status":1.0}
+02/05/2021 13:07:35,867 [140475145651968] [INFO ] - emit event type:39 code:0 str:{"addr":9,"status":1.0}, rshd=0
+02/05/2021 13:07:35,896 [140475156145920] [INFO ] - call event_callback, type:39 code:0 str:{"addr":9,"status":1.0}
+02/05/2021 13:07:36,605 [140475145651968] [INFO ] - emit event type:44 code:0 str:{"code":0,"text":"RobotMoveControlStopDone."}, rshd=0
+02/05/2021 13:07:36,649 [140475145651968] [INFO ] - emit event type:1300 code:0 str:{"code":0,"text":"robot controller enter stop state."}, rshd=0
+02/05/2021 13:07:36,650 [140475156145920] [INFO ] - call event_callback, type:44 code:0 str:{"code":0,"text":"RobotMoveControlStopDone."}
+02/05/2021 13:07:36,650 [140475156145920] [INFO ] - call event_callback, type:1300 code:0 str:{"code":0,"text":"robot controller enter stop state."}
+02/05/2021 13:07:36,652 [140475145651968] [INFO ] - emit event type:39 code:0 str:{"addr":1,"status":0.0}, rshd=0
+02/05/2021 13:07:36,653 [140475156145920] [INFO ] - call event_callback, type:39 code:0 str:{"addr":1,"status":0.0}
+02/05/2021 13:07:36,705 [140475145651968] [INFO ] - emit event type:39 code:0 str:{"addr":9,"status":0.0}, rshd=0
+02/05/2021 13:07:36,706 [140475156145920] [INFO ] - call event_callback, type:39 code:0 str:{"addr":9,"status":0.0}
+02/05/2021 13:07:37,462 [140475145651968] [INFO ] - emit event type:39 code:0 str:{"addr":1,"status":1.0}, rshd=0
+02/05/2021 13:07:37,477 [140475156145920] [INFO ] - call event_callback, type:39 code:0 str:{"addr":1,"status":1.0}
+02/05/2021 13:07:37,541 [140475145651968] [INFO ] - emit event type:39 code:0 str:{"addr":9,"status":1.0}, rshd=0
+02/05/2021 13:07:37,551 [140475156145920] [INFO ] - call event_callback, type:39 code:0 str:{"addr":9,"status":1.0}
+02/05/2021 13:07:38,284 [140475145651968] [INFO ] - emit event type:44 code:0 str:{"code":0,"text":"RobotMoveControlStopDone."}, rshd=0
+02/05/2021 13:07:38,297 [140475145651968] [INFO ] - emit event type:1300 code:0 str:{"code":0,"text":"robot controller enter stop state."}, rshd=0
+02/05/2021 13:07:38,300 [140475156145920] [INFO ] - call event_callback, type:44 code:0 str:{"code":0,"text":"RobotMoveControlStopDone."}
+02/05/2021 13:07:38,300 [140475156145920] [INFO ] - call event_callback, type:1300 code:0 str:{"code":0,"text":"robot controller enter stop state."}
+02/05/2021 13:07:38,332 [140475145651968] [INFO ] - emit event type:39 code:0 str:{"addr":1,"status":0.0}, rshd=0
+02/05/2021 13:07:38,365 [140475156145920] [INFO ] - call event_callback, type:39 code:0 str:{"addr":1,"status":0.0}
+02/05/2021 13:07:38,428 [140475145651968] [INFO ] - emit event type:39 code:0 str:{"addr":9,"status":0.0}, rshd=0
+02/05/2021 13:07:38,869 [140475145651968] [INFO ] - emit event type:39 code:0 str:{"addr":1,"status":1.0}, rshd=0
+02/05/2021 13:07:38,871 [140475156145920] [INFO ] - call event_callback, type:39 code:0 str:{"addr":9,"status":0.0}
+02/05/2021 13:07:38,871 [140475156145920] [INFO ] - call event_callback, type:39 code:0 str:{"addr":1,"status":1.0}
+02/05/2021 13:07:38,944 [140475145651968] [INFO ] - emit event type:39 code:0 str:{"addr":9,"status":1.0}, rshd=0
+02/05/2021 13:07:38,954 [140475156145920] [INFO ] - call event_callback, type:39 code:0 str:{"addr":9,"status":1.0}
+02/05/2021 13:07:39,951 [140475145651968] [INFO ] - emit event type:44 code:0 str:{"code":0,"text":"RobotMoveControlStopDone."}, rshd=0
+02/05/2021 13:07:39,965 [140475145651968] [INFO ] - emit event type:1300 code:0 str:{"code":0,"text":"robot controller enter stop state."}, rshd=0
+02/05/2021 13:07:39,968 [140475156145920] [INFO ] - call event_callback, type:44 code:0 str:{"code":0,"text":"RobotMoveControlStopDone."}
+02/05/2021 13:07:39,968 [140475156145920] [INFO ] - call event_callback, type:1300 code:0 str:{"code":0,"text":"robot controller enter stop state."}
+02/05/2021 13:07:40,009 [140475145651968] [INFO ] - emit event type:39 code:0 str:{"addr":1,"status":0.0}, rshd=0
+02/05/2021 13:07:40,022 [140475156145920] [INFO ] - call event_callback, type:39 code:0 str:{"addr":1,"status":0.0}
+02/05/2021 13:07:40,126 [140475145651968] [INFO ] - emit event type:39 code:0 str:{"addr":9,"status":0.0}, rshd=0
+02/05/2021 13:07:40,167 [140475156145920] [INFO ] - call event_callback, type:39 code:0 str:{"addr":9,"status":0.0}
+02/05/2021 13:07:40,957 [140475145651968] [INFO ] - emit event type:39 code:0 str:{"addr":1,"status":1.0}, rshd=0
+02/05/2021 13:07:41,001 [140475156145920] [INFO ] - call event_callback, type:39 code:0 str:{"addr":1,"status":1.0}
+02/05/2021 13:07:41,074 [140475145651968] [INFO ] - emit event type:39 code:0 str:{"addr":9,"status":1.0}, rshd=0
+02/05/2021 13:07:41,124 [140475156145920] [INFO ] - call event_callback, type:39 code:0 str:{"addr":9,"status":1.0}
+02/05/2021 13:07:45,497 [140475145651968] [INFO ] - emit event type:44 code:0 str:{"code":0,"text":"RobotMoveControlStopDone."}, rshd=0
+02/05/2021 13:07:45,501 [140475145651968] [INFO ] - emit event type:1300 code:0 str:{"code":0,"text":"robot controller enter stop state."}, rshd=0
+02/05/2021 13:07:45,514 [140475156145920] [INFO ] - call event_callback, type:44 code:0 str:{"code":0,"text":"RobotMoveControlStopDone."}
+02/05/2021 13:07:45,514 [140475156145920] [INFO ] - call event_callback, type:1300 code:0 str:{"code":0,"text":"robot controller enter stop state."}
+02/05/2021 13:07:45,556 [140475145651968] [INFO ] - emit event type:39 code:0 str:{"addr":1,"status":0.0}, rshd=0
+02/05/2021 13:07:45,602 [140475145651968] [INFO ] - emit event type:39 code:0 str:{"addr":9,"status":0.0}, rshd=0
+02/05/2021 13:07:45,605 [140475156145920] [INFO ] - call event_callback, type:39 code:0 str:{"addr":1,"status":0.0}
+02/05/2021 13:07:45,606 [140475156145920] [INFO ] - call event_callback, type:39 code:0 str:{"addr":9,"status":0.0}
+02/05/2021 13:07:45,684 [140475145651968] [INFO ] - emit event type:39 code:0 str:{"addr":1,"status":1.0}, rshd=0
+02/05/2021 13:07:45,695 [140475156145920] [INFO ] - call event_callback, type:39 code:0 str:{"addr":1,"status":1.0}
+02/05/2021 13:07:45,741 [140475145651968] [INFO ] - emit event type:39 code:0 str:{"addr":9,"status":1.0}, rshd=0
+02/05/2021 13:07:45,791 [140475156145920] [INFO ] - call event_callback, type:39 code:0 str:{"addr":9,"status":1.0}
+02/05/2021 13:07:46,891 [140475145651968] [INFO ] - emit event type:44 code:0 str:{"code":0,"text":"RobotMoveControlStopDone."}, rshd=0
+02/05/2021 13:07:46,973 [140475145651968] [INFO ] - emit event type:1300 code:0 str:{"code":0,"text":"robot controller enter stop state."}, rshd=0
+02/05/2021 13:07:46,973 [140475145651968] [INFO ] - emit event type:39 code:0 str:{"addr":1,"status":0.0}, rshd=0
+02/05/2021 13:07:46,974 [140475156145920] [INFO ] - call event_callback, type:44 code:0 str:{"code":0,"text":"RobotMoveControlStopDone."}
+02/05/2021 13:07:46,974 [140475156145920] [INFO ] - call event_callback, type:1300 code:0 str:{"code":0,"text":"robot controller enter stop state."}
+02/05/2021 13:07:46,974 [140475156145920] [INFO ] - call event_callback, type:39 code:0 str:{"addr":1,"status":0.0}
+02/05/2021 13:07:47,017 [140475145651968] [INFO ] - emit event type:39 code:0 str:{"addr":9,"status":0.0}, rshd=0
+02/05/2021 13:07:47,065 [140475156145920] [INFO ] - call event_callback, type:39 code:0 str:{"addr":9,"status":0.0}
+02/05/2021 13:07:47,631 [140475145651968] [INFO ] - emit event type:39 code:0 str:{"addr":1,"status":1.0}, rshd=0
+02/05/2021 13:07:47,648 [140475145651968] [INFO ] - emit event type:39 code:0 str:{"addr":9,"status":1.0}, rshd=0
+02/05/2021 13:07:47,650 [140475156145920] [INFO ] - call event_callback, type:39 code:0 str:{"addr":1,"status":1.0}
+02/05/2021 13:07:47,650 [140475156145920] [INFO ] - call event_callback, type:39 code:0 str:{"addr":9,"status":1.0}
+02/05/2021 13:07:48,891 [140475145651968] [INFO ] - emit event type:44 code:0 str:{"code":0,"text":"RobotMoveControlStopDone."}, rshd=0
+02/05/2021 13:07:48,957 [140475145651968] [INFO ] - emit event type:1300 code:0 str:{"code":0,"text":"robot controller enter stop state."}, rshd=0
+02/05/2021 13:07:48,957 [140475145651968] [INFO ] - emit event type:39 code:0 str:{"addr":1,"status":0.0}, rshd=0
+02/05/2021 13:07:48,959 [140475156145920] [INFO ] - call event_callback, type:44 code:0 str:{"code":0,"text":"RobotMoveControlStopDone."}
+02/05/2021 13:07:48,959 [140475156145920] [INFO ] - call event_callback, type:1300 code:0 str:{"code":0,"text":"robot controller enter stop state."}
+02/05/2021 13:07:48,959 [140475156145920] [INFO ] - call event_callback, type:39 code:0 str:{"addr":1,"status":0.0}
+02/05/2021 13:07:48,995 [140475145651968] [INFO ] - emit event type:39 code:0 str:{"addr":9,"status":0.0}, rshd=0
+02/05/2021 13:07:49,038 [140475156145920] [INFO ] - call event_callback, type:39 code:0 str:{"addr":9,"status":0.0}
+02/05/2021 13:07:49,081 [140475145651968] [INFO ] - emit event type:39 code:0 str:{"addr":1,"status":1.0}, rshd=0
+02/05/2021 13:07:49,116 [140475156145920] [INFO ] - call event_callback, type:39 code:0 str:{"addr":1,"status":1.0}
+02/05/2021 13:07:49,157 [140475145651968] [INFO ] - emit event type:39 code:0 str:{"addr":9,"status":1.0}, rshd=0
+02/05/2021 13:07:49,221 [140475156145920] [INFO ] - call event_callback, type:39 code:0 str:{"addr":9,"status":1.0}
+02/05/2021 13:07:49,977 [140475209262848] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:07:49,977 [140475209262848] [INFO ] - remove client, rshd=0
+02/05/2021 13:07:51,000 [140475209262848] [INFO ] - cancel robot event thread...
+02/05/2021 13:07:51,000 [140475156145920] [INFO ] - g_exit_system=1.
+02/05/2021 13:08:08,931 [139905253238528] [INFO ] - log4cplus started.
+02/05/2021 13:08:08,931 [139905253238528] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:08:08,932 [139905253238528] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:08:08,932 [139905253238528] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:08:08,932 [139905253238528] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:08:08,935 [139905253238528] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:08:08,936 [139905253238528] [INFO ] - sdk log: login  success.
+02/05/2021 13:08:08,937 [139905253238528] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:08:14,069 [139905189627648] [INFO ] - emit event type:39 code:0 str:{"addr":1,"status":1.0}, rshd=0
+02/05/2021 13:09:05,009 [140502906185472] [INFO ] - log4cplus started.
+02/05/2021 13:09:05,009 [140502906185472] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:09:05,010 [140502906185472] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:09:05,010 [140502906185472] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:09:05,010 [140502906185472] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:09:05,015 [140502906185472] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:09:05,015 [140502906185472] [INFO ] - sdk log: login  success.
+02/05/2021 13:09:05,016 [140502906185472] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:09:56,850 [140502906185472] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:09:56,850 [140502906185472] [INFO ] - remove client, rshd=0
+02/05/2021 13:09:57,000 [140502853068544] [INFO ] - g_exit_system=1.
+02/05/2021 13:09:57,000 [140502853068544] [INFO ] - robot_event_thread exit.
+02/05/2021 13:09:57,000 [140502853068544] [INFO ] - robot event thread be canceled.
+02/05/2021 13:09:57,000 [140502906185472] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:20:00,120 [140447401576192] [INFO ] - log4cplus started.
+02/05/2021 13:20:00,120 [140447401576192] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:20:00,120 [140447401576192] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:20:00,120 [140447401576192] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:20:00,121 [140447401576192] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:20:00,126 [140447401576192] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:20:00,126 [140447401576192] [INFO ] - sdk log: login  success.
+02/05/2021 13:20:00,128 [140447401576192] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:20:00,629 [140447401576192] [INFO ] - CoordCalibrate info:
+02/05/2021 13:20:00,629 [140447401576192] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:20:00,629 [140447401576192] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:20:00,629 [140447401576192] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:20:00,629 [140447401576192] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:20:00,629 [140447401576192] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:20:00,629 [140447401576192] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:20:00,629 [140447401576192] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:20:00,629 [140447401576192] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:20:00,629 [140447401576192] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:20:00,629 [140447401576192] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:20:00,629 [140447401576192] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:20:00,629 [140447401576192] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:20:00,629 [140447401576192] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:20:00,629 [140447401576192] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:20:00,629 [140447401576192] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:20:00,629 [140447401576192] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:20:00,629 [140447401576192] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:20:00,629 [140447401576192] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:20:00,629 [140447401576192] [INFO ] - CoordCalibrate.toolDesc.Ori.w=1.000000
+02/05/2021 13:20:00,629 [140447401576192] [INFO ] - CoordCalibrate.toolDesc.Ori.x=0.000000
+02/05/2021 13:20:00,629 [140447401576192] [INFO ] - CoordCalibrate.toolDesc.Ori.y=0.000000
+02/05/2021 13:20:00,629 [140447401576192] [INFO ] - CoordCalibrate.toolDesc.Ori.z=0.000000
+02/05/2021 13:20:00,629 [140447401576192] [INFO ] - CoordCalibrate.toolDesc.pos.x=0.019554
+02/05/2021 13:20:00,629 [140447401576192] [INFO ] - CoordCalibrate.toolDesc.pos.y=0.008029
+02/05/2021 13:20:00,629 [140447401576192] [INFO ] - CoordCalibrate.toolDesc.pos.z=0.259355
+02/05/2021 13:20:00,629 [140447401576192] [INFO ] - CoordCalibrate.methods=0
+02/05/2021 13:20:00,629 [140447401576192] [INFO ] - CoordCalibrate.coordType=2
+02/05/2021 13:21:14,122 [140447401576192] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:21:14,123 [140447401576192] [INFO ] - remove client, rshd=0
+02/05/2021 13:21:15,000 [140447348459264] [INFO ] - g_exit_system=1.
+02/05/2021 13:21:15,000 [140447348459264] [INFO ] - robot_event_thread exit.
+02/05/2021 13:21:15,000 [140447348459264] [INFO ] - robot event thread be canceled.
+02/05/2021 13:21:15,046 [140447401576192] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:21:18,197 [139850994419456] [INFO ] - log4cplus started.
+02/05/2021 13:21:18,197 [139850994419456] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:21:18,198 [139850994419456] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:21:18,198 [139850994419456] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:21:18,198 [139850994419456] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:21:18,201 [139850994419456] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:21:18,201 [139850994419456] [INFO ] - sdk log: login  success.
+02/05/2021 13:21:18,203 [139850994419456] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:21:18,703 [139850994419456] [INFO ] - CoordCalibrate info:
+02/05/2021 13:21:18,704 [139850994419456] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:21:18,704 [139850994419456] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:21:18,704 [139850994419456] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:21:18,704 [139850994419456] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:21:18,704 [139850994419456] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:21:18,704 [139850994419456] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:21:18,704 [139850994419456] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:21:18,704 [139850994419456] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:21:18,704 [139850994419456] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:21:18,704 [139850994419456] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:21:18,704 [139850994419456] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:21:18,704 [139850994419456] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:21:18,704 [139850994419456] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:21:18,704 [139850994419456] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:21:18,704 [139850994419456] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:21:18,704 [139850994419456] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:21:18,704 [139850994419456] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:21:18,704 [139850994419456] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:21:18,704 [139850994419456] [INFO ] - CoordCalibrate.toolDesc.Ori.w=1.000000
+02/05/2021 13:21:18,704 [139850994419456] [INFO ] - CoordCalibrate.toolDesc.Ori.x=0.000000
+02/05/2021 13:21:18,704 [139850994419456] [INFO ] - CoordCalibrate.toolDesc.Ori.y=0.000000
+02/05/2021 13:21:18,704 [139850994419456] [INFO ] - CoordCalibrate.toolDesc.Ori.z=0.000000
+02/05/2021 13:21:18,704 [139850994419456] [INFO ] - CoordCalibrate.toolDesc.pos.x=0.019554
+02/05/2021 13:21:18,704 [139850994419456] [INFO ] - CoordCalibrate.toolDesc.pos.y=0.008029
+02/05/2021 13:21:18,704 [139850994419456] [INFO ] - CoordCalibrate.toolDesc.pos.z=0.259355
+02/05/2021 13:21:18,704 [139850994419456] [INFO ] - CoordCalibrate.methods=0
+02/05/2021 13:21:18,704 [139850994419456] [INFO ] - CoordCalibrate.coordType=2
+02/05/2021 13:21:20,726 [139850994419456] [INFO ] - CoordCalibrate.point[0]=0.300000
+02/05/2021 13:21:20,726 [139850994419456] [INFO ] - diagnosis.point-----------------=----------
+02/05/2021 13:21:21,227 [139850994419456] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:21:21,227 [139850994419456] [INFO ] - remove client, rshd=0
+02/05/2021 13:21:22,000 [139850941302528] [INFO ] - g_exit_system=1.
+02/05/2021 13:21:22,000 [139850941302528] [INFO ] - robot_event_thread exit.
+02/05/2021 13:21:22,000 [139850941302528] [INFO ] - robot event thread be canceled.
+02/05/2021 13:21:22,047 [139850994419456] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:21:51,909 [140466166765312] [INFO ] - log4cplus started.
+02/05/2021 13:21:51,909 [140466166765312] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:21:51,910 [140466166765312] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:21:51,910 [140466166765312] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:21:51,910 [140466166765312] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:21:51,915 [140466166765312] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:21:51,915 [140466166765312] [INFO ] - sdk log: login  success.
+02/05/2021 13:21:51,916 [140466166765312] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:21:52,417 [140466166765312] [INFO ] - CoordCalibrate info:
+02/05/2021 13:21:52,417 [140466166765312] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:21:52,417 [140466166765312] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:21:52,417 [140466166765312] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:21:52,417 [140466166765312] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:21:52,417 [140466166765312] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:21:52,417 [140466166765312] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:21:52,417 [140466166765312] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:21:52,417 [140466166765312] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:21:52,417 [140466166765312] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:21:52,417 [140466166765312] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:21:52,417 [140466166765312] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:21:52,417 [140466166765312] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:21:52,417 [140466166765312] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:21:52,417 [140466166765312] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:21:52,417 [140466166765312] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:21:52,417 [140466166765312] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:21:52,417 [140466166765312] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:21:52,417 [140466166765312] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:21:52,417 [140466166765312] [INFO ] - CoordCalibrate.toolDesc.Ori.w=1.000000
+02/05/2021 13:21:52,417 [140466166765312] [INFO ] - CoordCalibrate.toolDesc.Ori.x=0.000000
+02/05/2021 13:21:52,417 [140466166765312] [INFO ] - CoordCalibrate.toolDesc.Ori.y=0.000000
+02/05/2021 13:21:52,417 [140466166765312] [INFO ] - CoordCalibrate.toolDesc.Ori.z=0.000000
+02/05/2021 13:21:52,417 [140466166765312] [INFO ] - CoordCalibrate.toolDesc.pos.x=0.019554
+02/05/2021 13:21:52,417 [140466166765312] [INFO ] - CoordCalibrate.toolDesc.pos.y=0.008029
+02/05/2021 13:21:52,417 [140466166765312] [INFO ] - CoordCalibrate.toolDesc.pos.z=0.259355
+02/05/2021 13:21:52,417 [140466166765312] [INFO ] - CoordCalibrate.methods=0
+02/05/2021 13:21:52,417 [140466166765312] [INFO ] - CoordCalibrate.coordType=2
+02/05/2021 13:21:53,451 [140466166765312] [INFO ] - CoordCalibrate.point[0]=0.400000
+02/05/2021 13:21:53,452 [140466166765312] [INFO ] - diagnosis.point-----------------=----------
+02/05/2021 13:21:53,952 [140466166765312] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:21:53,952 [140466166765312] [INFO ] - remove client, rshd=0
+02/05/2021 13:21:54,000 [140466113648384] [INFO ] - g_exit_system=1.
+02/05/2021 13:21:54,000 [140466113648384] [INFO ] - robot_event_thread exit.
+02/05/2021 13:21:54,000 [140466113648384] [INFO ] - robot event thread be canceled.
+02/05/2021 13:21:54,049 [140466166765312] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:27:42,424 [140694795437824] [INFO ] - log4cplus started.
+02/05/2021 13:27:42,424 [140694795437824] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:27:42,424 [140694795437824] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:27:42,425 [140694795437824] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:27:42,425 [140694795437824] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:27:42,432 [140694795437824] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:27:42,432 [140694795437824] [INFO ] - sdk log: login  success.
+02/05/2021 13:27:42,433 [140694795437824] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:27:47,171 [140694795437824] [INFO ] - CoordCalibrate info:
+02/05/2021 13:27:47,171 [140694795437824] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:27:47,171 [140694795437824] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:27:47,171 [140694795437824] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:27:47,171 [140694795437824] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:27:47,171 [140694795437824] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:27:47,171 [140694795437824] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:27:47,171 [140694795437824] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:27:47,171 [140694795437824] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:27:47,171 [140694795437824] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:27:47,171 [140694795437824] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:27:47,171 [140694795437824] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:27:47,171 [140694795437824] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:27:47,171 [140694795437824] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:27:47,171 [140694795437824] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:27:47,171 [140694795437824] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:27:47,171 [140694795437824] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:27:47,171 [140694795437824] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:27:47,171 [140694795437824] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:27:47,171 [140694795437824] [INFO ] - CoordCalibrate.toolDesc.Ori.w=1.000000
+02/05/2021 13:27:47,171 [140694795437824] [INFO ] - CoordCalibrate.toolDesc.Ori.x=0.000000
+02/05/2021 13:27:47,171 [140694795437824] [INFO ] - CoordCalibrate.toolDesc.Ori.y=0.000000
+02/05/2021 13:27:47,171 [140694795437824] [INFO ] - CoordCalibrate.toolDesc.Ori.z=0.000000
+02/05/2021 13:27:47,171 [140694795437824] [INFO ] - CoordCalibrate.toolDesc.pos.x=0.000000
+02/05/2021 13:27:47,171 [140694795437824] [INFO ] - CoordCalibrate.toolDesc.pos.y=0.000000
+02/05/2021 13:27:47,171 [140694795437824] [INFO ] - CoordCalibrate.toolDesc.pos.z=0.000000
+02/05/2021 13:27:47,171 [140694795437824] [INFO ] - CoordCalibrate.methods=0
+02/05/2021 13:27:47,171 [140694795437824] [INFO ] - CoordCalibrate.coordType=2
+02/05/2021 13:27:58,551 [140694795437824] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:27:58,551 [140694795437824] [INFO ] - remove client, rshd=0
+02/05/2021 13:27:59,000 [140694742320896] [INFO ] - g_exit_system=1.
+02/05/2021 13:27:59,000 [140694742320896] [INFO ] - robot_event_thread exit.
+02/05/2021 13:27:59,000 [140694742320896] [INFO ] - robot event thread be canceled.
+02/05/2021 13:27:59,000 [140694795437824] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:28:01,656 [140282070947584] [INFO ] - log4cplus started.
+02/05/2021 13:28:01,656 [140282070947584] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:28:01,656 [140282070947584] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:28:01,657 [140282070947584] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:28:01,657 [140282070947584] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:28:01,660 [140282070947584] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:28:01,660 [140282070947584] [INFO ] - sdk log: login  success.
+02/05/2021 13:28:01,661 [140282070947584] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:28:03,297 [140282070947584] [INFO ] - CoordCalibrate info:
+02/05/2021 13:28:03,297 [140282070947584] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:28:03,297 [140282070947584] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:28:03,297 [140282070947584] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:28:03,297 [140282070947584] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:28:03,297 [140282070947584] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:28:03,297 [140282070947584] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:28:03,297 [140282070947584] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:28:03,297 [140282070947584] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:28:03,297 [140282070947584] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:28:03,297 [140282070947584] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:28:03,297 [140282070947584] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:28:03,297 [140282070947584] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:28:03,297 [140282070947584] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:28:03,297 [140282070947584] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:28:03,297 [140282070947584] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:28:03,297 [140282070947584] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:28:03,297 [140282070947584] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:28:03,297 [140282070947584] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:28:03,297 [140282070947584] [INFO ] - CoordCalibrate.toolDesc.Ori.w=1.000000
+02/05/2021 13:28:03,297 [140282070947584] [INFO ] - CoordCalibrate.toolDesc.Ori.x=0.000000
+02/05/2021 13:28:03,297 [140282070947584] [INFO ] - CoordCalibrate.toolDesc.Ori.y=0.000000
+02/05/2021 13:28:03,297 [140282070947584] [INFO ] - CoordCalibrate.toolDesc.Ori.z=0.000000
+02/05/2021 13:28:03,297 [140282070947584] [INFO ] - CoordCalibrate.toolDesc.pos.x=0.000000
+02/05/2021 13:28:03,297 [140282070947584] [INFO ] - CoordCalibrate.toolDesc.pos.y=0.000000
+02/05/2021 13:28:03,297 [140282070947584] [INFO ] - CoordCalibrate.toolDesc.pos.z=0.000000
+02/05/2021 13:28:03,297 [140282070947584] [INFO ] - CoordCalibrate.methods=0
+02/05/2021 13:28:03,297 [140282070947584] [INFO ] - CoordCalibrate.coordType=2
+02/05/2021 13:28:37,651 [140282070947584] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:28:37,651 [140282070947584] [INFO ] - remove client, rshd=0
+02/05/2021 13:28:38,000 [140282017830656] [INFO ] - g_exit_system=1.
+02/05/2021 13:28:38,000 [140282017830656] [INFO ] - robot_event_thread exit.
+02/05/2021 13:28:38,000 [140282017830656] [INFO ] - robot event thread be canceled.
+02/05/2021 13:28:39,026 [139930594940672] [INFO ] - log4cplus started.
+02/05/2021 13:28:39,026 [139930594940672] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:28:39,026 [139930594940672] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:28:39,026 [139930594940672] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:28:39,026 [139930594940672] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:28:39,030 [139930594940672] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:28:39,031 [139930594940672] [INFO ] - sdk log: login  success.
+02/05/2021 13:28:39,033 [139930594940672] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:28:41,328 [139930594940672] [INFO ] - CoordCalibrate info:
+02/05/2021 13:28:41,329 [139930594940672] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:28:41,329 [139930594940672] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:28:41,329 [139930594940672] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:28:41,329 [139930594940672] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:28:41,329 [139930594940672] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:28:41,329 [139930594940672] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:28:41,329 [139930594940672] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:28:41,329 [139930594940672] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:28:41,329 [139930594940672] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:28:41,329 [139930594940672] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:28:41,329 [139930594940672] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:28:41,329 [139930594940672] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:28:41,329 [139930594940672] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:28:41,329 [139930594940672] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:28:41,329 [139930594940672] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:28:41,329 [139930594940672] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:28:41,329 [139930594940672] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:28:41,329 [139930594940672] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:28:41,329 [139930594940672] [INFO ] - CoordCalibrate.toolDesc.Ori.w=1.000000
+02/05/2021 13:28:41,329 [139930594940672] [INFO ] - CoordCalibrate.toolDesc.Ori.x=0.000000
+02/05/2021 13:28:41,329 [139930594940672] [INFO ] - CoordCalibrate.toolDesc.Ori.y=0.000000
+02/05/2021 13:28:41,329 [139930594940672] [INFO ] - CoordCalibrate.toolDesc.Ori.z=0.000000
+02/05/2021 13:28:41,329 [139930594940672] [INFO ] - CoordCalibrate.toolDesc.pos.x=0.000000
+02/05/2021 13:28:41,329 [139930594940672] [INFO ] - CoordCalibrate.toolDesc.pos.y=0.000000
+02/05/2021 13:28:41,329 [139930594940672] [INFO ] - CoordCalibrate.toolDesc.pos.z=0.000000
+02/05/2021 13:28:41,329 [139930594940672] [INFO ] - CoordCalibrate.methods=0
+02/05/2021 13:28:41,329 [139930594940672] [INFO ] - CoordCalibrate.coordType=2
+02/05/2021 13:29:02,388 [139930594940672] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:29:02,388 [139930594940672] [INFO ] - remove client, rshd=0
+02/05/2021 13:29:03,000 [139930541823744] [INFO ] - g_exit_system=1.
+02/05/2021 13:29:03,000 [139930541823744] [INFO ] - robot_event_thread exit.
+02/05/2021 13:29:03,000 [139930541823744] [INFO ] - robot event thread be canceled.
+02/05/2021 13:29:03,047 [139930594940672] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:29:04,354 [140241765443328] [INFO ] - log4cplus started.
+02/05/2021 13:29:04,355 [140241765443328] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:29:04,355 [140241765443328] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:29:04,355 [140241765443328] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:29:04,355 [140241765443328] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:29:04,363 [140241765443328] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:29:04,363 [140241765443328] [INFO ] - sdk log: login  success.
+02/05/2021 13:29:04,364 [140241765443328] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:29:06,482 [140241765443328] [INFO ] - CoordCalibrate info:
+02/05/2021 13:29:06,482 [140241765443328] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:29:06,482 [140241765443328] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:29:06,482 [140241765443328] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:29:06,482 [140241765443328] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:29:06,482 [140241765443328] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:29:06,482 [140241765443328] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:29:06,482 [140241765443328] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:29:06,482 [140241765443328] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:29:06,482 [140241765443328] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:29:06,482 [140241765443328] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:29:06,482 [140241765443328] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:29:06,482 [140241765443328] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:29:06,482 [140241765443328] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:29:06,482 [140241765443328] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:29:06,482 [140241765443328] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:29:06,482 [140241765443328] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:29:06,482 [140241765443328] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:29:06,482 [140241765443328] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:29:06,482 [140241765443328] [INFO ] - CoordCalibrate.toolDesc.Ori.w=1.000000
+02/05/2021 13:29:06,482 [140241765443328] [INFO ] - CoordCalibrate.toolDesc.Ori.x=0.000000
+02/05/2021 13:29:06,482 [140241765443328] [INFO ] - CoordCalibrate.toolDesc.Ori.y=0.000000
+02/05/2021 13:29:06,482 [140241765443328] [INFO ] - CoordCalibrate.toolDesc.Ori.z=0.000000
+02/05/2021 13:29:06,482 [140241765443328] [INFO ] - CoordCalibrate.toolDesc.pos.x=0.019554
+02/05/2021 13:29:06,482 [140241765443328] [INFO ] - CoordCalibrate.toolDesc.pos.y=0.008029
+02/05/2021 13:29:06,482 [140241765443328] [INFO ] - CoordCalibrate.toolDesc.pos.z=0.259355
+02/05/2021 13:29:06,482 [140241765443328] [INFO ] - CoordCalibrate.methods=0
+02/05/2021 13:29:06,482 [140241765443328] [INFO ] - CoordCalibrate.coordType=2
+02/05/2021 13:29:11,379 [140241765443328] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:29:11,379 [140241765443328] [INFO ] - remove client, rshd=0
+02/05/2021 13:29:12,000 [140241712326400] [INFO ] - g_exit_system=1.
+02/05/2021 13:29:12,000 [140241712326400] [INFO ] - robot_event_thread exit.
+02/05/2021 13:29:12,000 [140241712326400] [INFO ] - robot event thread be canceled.
+02/05/2021 13:29:12,000 [140241765443328] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:29:22,290 [140629784459008] [INFO ] - log4cplus started.
+02/05/2021 13:29:22,290 [140629784459008] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:29:22,290 [140629784459008] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:29:22,290 [140629784459008] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:29:22,290 [140629784459008] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:29:22,295 [140629784459008] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:29:22,295 [140629784459008] [INFO ] - sdk log: login  success.
+02/05/2021 13:29:22,297 [140629784459008] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:29:23,392 [140629784459008] [INFO ] - CoordCalibrate info:
+02/05/2021 13:29:23,392 [140629784459008] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:29:23,392 [140629784459008] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:29:23,392 [140629784459008] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:29:23,392 [140629784459008] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:29:23,392 [140629784459008] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:29:23,392 [140629784459008] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:29:23,392 [140629784459008] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:29:23,392 [140629784459008] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:29:23,392 [140629784459008] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:29:23,392 [140629784459008] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:29:23,392 [140629784459008] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:29:23,392 [140629784459008] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:29:23,392 [140629784459008] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:29:23,392 [140629784459008] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:29:23,392 [140629784459008] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:29:23,392 [140629784459008] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:29:23,392 [140629784459008] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:29:23,392 [140629784459008] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:29:23,392 [140629784459008] [INFO ] - CoordCalibrate.toolDesc.Ori.w=1.000000
+02/05/2021 13:29:23,392 [140629784459008] [INFO ] - CoordCalibrate.toolDesc.Ori.x=0.000000
+02/05/2021 13:29:23,392 [140629784459008] [INFO ] - CoordCalibrate.toolDesc.Ori.y=0.000000
+02/05/2021 13:29:23,392 [140629784459008] [INFO ] - CoordCalibrate.toolDesc.Ori.z=0.000000
+02/05/2021 13:29:23,392 [140629784459008] [INFO ] - CoordCalibrate.toolDesc.pos.x=0.019554
+02/05/2021 13:29:23,392 [140629784459008] [INFO ] - CoordCalibrate.toolDesc.pos.y=0.008029
+02/05/2021 13:29:23,392 [140629784459008] [INFO ] - CoordCalibrate.toolDesc.pos.z=0.259355
+02/05/2021 13:29:23,392 [140629784459008] [INFO ] - CoordCalibrate.methods=0
+02/05/2021 13:29:23,392 [140629784459008] [INFO ] - CoordCalibrate.coordType=2
+02/05/2021 13:29:24,369 [140629784459008] [INFO ] - CoordCalibrate info:
+02/05/2021 13:29:24,369 [140629784459008] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:29:24,369 [140629784459008] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:29:24,369 [140629784459008] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:29:24,369 [140629784459008] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:29:24,369 [140629784459008] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:29:24,369 [140629784459008] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:29:24,369 [140629784459008] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:29:24,369 [140629784459008] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:29:24,369 [140629784459008] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:29:24,369 [140629784459008] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:29:24,369 [140629784459008] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:29:24,369 [140629784459008] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:29:24,369 [140629784459008] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:29:24,369 [140629784459008] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:29:24,369 [140629784459008] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:29:24,369 [140629784459008] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:29:24,369 [140629784459008] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:29:24,369 [140629784459008] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:29:24,369 [140629784459008] [INFO ] - CoordCalibrate.toolDesc.Ori.w=1.000000
+02/05/2021 13:29:24,369 [140629784459008] [INFO ] - CoordCalibrate.toolDesc.Ori.x=0.000000
+02/05/2021 13:29:24,369 [140629784459008] [INFO ] - CoordCalibrate.toolDesc.Ori.y=0.000000
+02/05/2021 13:29:24,369 [140629784459008] [INFO ] - CoordCalibrate.toolDesc.Ori.z=0.000000
+02/05/2021 13:29:24,369 [140629784459008] [INFO ] - CoordCalibrate.toolDesc.pos.x=0.019554
+02/05/2021 13:29:24,369 [140629784459008] [INFO ] - CoordCalibrate.toolDesc.pos.y=0.008029
+02/05/2021 13:29:24,369 [140629784459008] [INFO ] - CoordCalibrate.toolDesc.pos.z=0.259355
+02/05/2021 13:29:24,369 [140629784459008] [INFO ] - CoordCalibrate.methods=0
+02/05/2021 13:29:24,369 [140629784459008] [INFO ] - CoordCalibrate.coordType=2
+02/05/2021 13:29:25,376 [140629784459008] [INFO ] - CoordCalibrate info:
+02/05/2021 13:29:25,376 [140629784459008] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:29:25,376 [140629784459008] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:29:25,376 [140629784459008] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:29:25,376 [140629784459008] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:29:25,376 [140629784459008] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:29:25,376 [140629784459008] [INFO ] - CoordCalibrate.point[0]=0.000000
+02/05/2021 13:29:25,376 [140629784459008] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:29:25,376 [140629784459008] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:29:25,376 [140629784459008] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:29:25,376 [140629784459008] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:29:25,376 [140629784459008] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:29:25,376 [140629784459008] [INFO ] - CoordCalibrate.point[1]=0.000000
+02/05/2021 13:29:25,376 [140629784459008] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:29:25,376 [140629784459008] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:29:25,376 [140629784459008] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:29:25,376 [140629784459008] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:29:25,376 [140629784459008] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:29:25,376 [140629784459008] [INFO ] - CoordCalibrate.point[2]=0.000000
+02/05/2021 13:29:25,376 [140629784459008] [INFO ] - CoordCalibrate.toolDesc.Ori.w=1.000000
+02/05/2021 13:29:25,376 [140629784459008] [INFO ] - CoordCalibrate.toolDesc.Ori.x=0.000000
+02/05/2021 13:29:25,376 [140629784459008] [INFO ] - CoordCalibrate.toolDesc.Ori.y=0.000000
+02/05/2021 13:29:25,377 [140629784459008] [INFO ] - CoordCalibrate.toolDesc.Ori.z=0.000000
+02/05/2021 13:29:25,377 [140629784459008] [INFO ] - CoordCalibrate.toolDesc.pos.x=0.019554
+02/05/2021 13:29:25,377 [140629784459008] [INFO ] - CoordCalibrate.toolDesc.pos.y=0.008029
+02/05/2021 13:29:25,377 [140629784459008] [INFO ] - CoordCalibrate.toolDesc.pos.z=0.259355
+02/05/2021 13:29:25,377 [140629784459008] [INFO ] - CoordCalibrate.methods=0
+02/05/2021 13:29:25,377 [140629784459008] [INFO ] - CoordCalibrate.coordType=2
+02/05/2021 13:29:26,404 [140629784459008] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:29:26,404 [140629784459008] [INFO ] - remove client, rshd=0
+02/05/2021 13:29:27,000 [140629731342080] [INFO ] - g_exit_system=1.
+02/05/2021 13:29:27,000 [140629731342080] [INFO ] - robot_event_thread exit.
+02/05/2021 13:29:27,000 [140629731342080] [INFO ] - robot event thread be canceled.
+02/05/2021 13:29:27,000 [140629784459008] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:33:59,567 [140172172412672] [INFO ] - log4cplus started.
+02/05/2021 13:33:59,567 [140172172412672] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:33:59,568 [140172172412672] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:33:59,568 [140172172412672] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:33:59,568 [140172172412672] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:33:59,571 [140172172412672] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:33:59,571 [140172172412672] [INFO ] - sdk log: login  success.
+02/05/2021 13:33:59,574 [140172172412672] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:34:15,746 [140172172412672] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:34:15,746 [140172172412672] [INFO ] - remove client, rshd=0
+02/05/2021 13:34:16,000 [140172119295744] [INFO ] - g_exit_system=1.
+02/05/2021 13:34:16,000 [140172119295744] [INFO ] - robot_event_thread exit.
+02/05/2021 13:34:16,000 [140172119295744] [INFO ] - robot event thread be canceled.
+02/05/2021 13:34:16,000 [140172172412672] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:34:17,420 [140440127657728] [INFO ] - log4cplus started.
+02/05/2021 13:34:17,420 [140440127657728] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:34:17,421 [140440127657728] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:34:17,421 [140440127657728] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:34:17,421 [140440127657728] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:34:17,427 [140440127657728] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:34:17,427 [140440127657728] [INFO ] - sdk log: login  success.
+02/05/2021 13:34:17,430 [140440127657728] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:44:47,926 [140440127657728] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:44:47,926 [140440127657728] [INFO ] - remove client, rshd=0
+02/05/2021 13:44:48,000 [140440074540800] [INFO ] - g_exit_system=1.
+02/05/2021 13:44:48,000 [140440074540800] [INFO ] - robot_event_thread exit.
+02/05/2021 13:44:48,000 [140440074540800] [INFO ] - robot event thread be canceled.
+02/05/2021 13:44:48,050 [140440127657728] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:45:07,851 [140101767186176] [INFO ] - log4cplus started.
+02/05/2021 13:45:07,851 [140101767186176] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:45:07,851 [140101767186176] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:45:07,851 [140101767186176] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:45:07,851 [140101767186176] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:45:07,855 [140101767186176] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:45:07,855 [140101767186176] [INFO ] - sdk log: login  success.
+02/05/2021 13:45:07,856 [140101767186176] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:45:27,605 [140101767186176] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:45:27,605 [140101767186176] [INFO ] - remove client, rshd=0
+02/05/2021 13:45:28,000 [140101714069248] [INFO ] - g_exit_system=1.
+02/05/2021 13:45:28,000 [140101714069248] [INFO ] - robot_event_thread exit.
+02/05/2021 13:45:28,000 [140101714069248] [INFO ] - robot event thread be canceled.
+02/05/2021 13:45:28,046 [140101767186176] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:46:40,268 [140462345471744] [INFO ] - log4cplus started.
+02/05/2021 13:46:40,268 [140462345471744] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:46:40,269 [140462345471744] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:46:40,269 [140462345471744] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:46:40,270 [140462345471744] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:46:40,273 [140462345471744] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:46:40,273 [140462345471744] [INFO ] - sdk log: login  success.
+02/05/2021 13:46:40,274 [140462345471744] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:47:26,068 [140462345471744] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:47:26,068 [140462345471744] [INFO ] - remove client, rshd=0
+02/05/2021 13:47:26,717 [140574055163648] [INFO ] - log4cplus started.
+02/05/2021 13:47:26,717 [140574055163648] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:47:26,717 [140574055163648] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:47:26,718 [140574055163648] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:47:26,718 [140574055163648] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:47:26,722 [140574055163648] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:47:26,722 [140574055163648] [INFO ] - sdk log: login  success.
+02/05/2021 13:47:26,724 [140574055163648] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:47:27,000 [140462292354816] [INFO ] - g_exit_system=1.
+02/05/2021 13:47:27,000 [140462292354816] [INFO ] - robot_event_thread exit.
+02/05/2021 13:47:27,000 [140462292354816] [INFO ] - robot event thread be canceled.
+02/05/2021 13:47:27,056 [140462345471744] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:47:44,742 [140574055163648] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:47:44,743 [140574055163648] [INFO ] - remove client, rshd=0
+02/05/2021 13:47:45,000 [140574002046720] [INFO ] - g_exit_system=1.
+02/05/2021 13:47:45,000 [140574002046720] [INFO ] - robot_event_thread exit.
+02/05/2021 13:47:45,000 [140574002046720] [INFO ] - robot event thread be canceled.
+02/05/2021 13:47:45,051 [140574055163648] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:47:46,300 [140101185107712] [INFO ] - log4cplus started.
+02/05/2021 13:47:46,300 [140101185107712] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:47:46,301 [140101185107712] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:47:46,301 [140101185107712] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:47:46,301 [140101185107712] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:47:46,305 [140101185107712] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:47:46,305 [140101185107712] [INFO ] - sdk log: login  success.
+02/05/2021 13:47:46,308 [140101185107712] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:47:58,069 [140101185107712] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:47:58,069 [140101185107712] [INFO ] - remove client, rshd=0
+02/05/2021 13:47:59,000 [140101131990784] [INFO ] - g_exit_system=1.
+02/05/2021 13:47:59,000 [140101131990784] [INFO ] - robot_event_thread exit.
+02/05/2021 13:47:59,000 [140101131990784] [INFO ] - robot event thread be canceled.
+02/05/2021 13:47:59,054 [140151044114176] [INFO ] - log4cplus started.
+02/05/2021 13:47:59,054 [140151044114176] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:47:59,055 [140151044114176] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:47:59,055 [140151044114176] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:47:59,055 [140101185107712] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:47:59,055 [140151044114176] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:47:59,059 [140151044114176] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:47:59,059 [140151044114176] [INFO ] - sdk log: login  success.
+02/05/2021 13:47:59,060 [140151044114176] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:48:01,699 [140151044114176] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:48:01,699 [140151044114176] [INFO ] - remove client, rshd=0
+02/05/2021 13:48:02,000 [140150990997248] [INFO ] - g_exit_system=1.
+02/05/2021 13:48:02,000 [140150990997248] [INFO ] - robot_event_thread exit.
+02/05/2021 13:48:02,000 [140150990997248] [INFO ] - robot event thread be canceled.
+02/05/2021 13:48:02,053 [140151044114176] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:48:04,666 [139911119607552] [INFO ] - log4cplus started.
+02/05/2021 13:48:04,666 [139911119607552] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:48:04,667 [139911119607552] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:48:04,667 [139911119607552] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:48:04,667 [139911119607552] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:48:04,670 [139911119607552] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:48:04,671 [139911119607552] [INFO ] - sdk log: login  success.
+02/05/2021 13:48:04,672 [139911119607552] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:48:08,723 [139911119607552] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:48:08,723 [139911119607552] [INFO ] - remove client, rshd=0
+02/05/2021 13:48:09,000 [139911066490624] [INFO ] - g_exit_system=1.
+02/05/2021 13:48:09,000 [139911066490624] [INFO ] - robot_event_thread exit.
+02/05/2021 13:48:09,000 [139911066490624] [INFO ] - robot event thread be canceled.
+02/05/2021 13:48:09,051 [139911119607552] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:49:42,515 [139772032325376] [INFO ] - log4cplus started.
+02/05/2021 13:49:42,515 [139772032325376] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:49:42,515 [139772032325376] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:49:42,516 [139772032325376] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:49:42,516 [139772032325376] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:49:42,519 [139772032325376] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:49:42,520 [139772032325376] [INFO ] - sdk log: login  success.
+02/05/2021 13:49:42,521 [139772032325376] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:49:47,107 [139772032325376] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:49:47,107 [139772032325376] [INFO ] - remove client, rshd=0
+02/05/2021 13:49:48,000 [139771979208448] [INFO ] - g_exit_system=1.
+02/05/2021 13:49:48,000 [139771979208448] [INFO ] - robot_event_thread exit.
+02/05/2021 13:49:48,000 [139771979208448] [INFO ] - robot event thread be canceled.
+02/05/2021 13:49:48,058 [139772032325376] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:49:53,947 [140083949553408] [INFO ] - log4cplus started.
+02/05/2021 13:49:53,947 [140083949553408] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:49:53,947 [140083949553408] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:49:53,947 [140083949553408] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:49:53,947 [140083949553408] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:49:53,951 [140083949553408] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:49:53,951 [140083949553408] [INFO ] - sdk log: login  success.
+02/05/2021 13:49:53,952 [140083949553408] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:50:05,745 [140083949553408] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:50:05,745 [140083949553408] [INFO ] - remove client, rshd=0
+02/05/2021 13:50:06,000 [140083896436480] [INFO ] - g_exit_system=1.
+02/05/2021 13:50:06,000 [140083896436480] [INFO ] - robot_event_thread exit.
+02/05/2021 13:50:06,000 [140083896436480] [INFO ] - robot event thread be canceled.
+02/05/2021 13:50:06,057 [140083949553408] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:50:06,209 [139796912396032] [INFO ] - log4cplus started.
+02/05/2021 13:50:06,209 [139796912396032] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:50:06,210 [139796912396032] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:50:06,210 [139796912396032] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:50:06,210 [139796912396032] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:50:06,214 [139796912396032] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:50:06,214 [139796912396032] [INFO ] - sdk log: login  success.
+02/05/2021 13:50:06,216 [139796912396032] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:50:07,218 [139796912396032] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:50:07,218 [139796912396032] [INFO ] - remove client, rshd=0
+02/05/2021 13:50:07,617 [140131348469504] [INFO ] - log4cplus started.
+02/05/2021 13:50:07,617 [140131348469504] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:50:07,617 [140131348469504] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:50:07,618 [140131348469504] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:50:07,618 [140131348469504] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:50:07,624 [140131348469504] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:50:07,624 [140131348469504] [INFO ] - sdk log: login  success.
+02/05/2021 13:50:07,625 [140131348469504] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:50:08,000 [139796859279104] [INFO ] - g_exit_system=1.
+02/05/2021 13:50:08,000 [139796859279104] [INFO ] - robot_event_thread exit.
+02/05/2021 13:50:08,000 [139796859279104] [INFO ] - robot event thread be canceled.
+02/05/2021 13:50:08,055 [139796912396032] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:50:08,627 [140131348469504] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:50:08,627 [140131348469504] [INFO ] - remove client, rshd=0
+02/05/2021 13:50:09,000 [140131295352576] [INFO ] - g_exit_system=1.
+02/05/2021 13:50:09,000 [140131295352576] [INFO ] - robot_event_thread exit.
+02/05/2021 13:50:09,000 [140131295352576] [INFO ] - robot event thread be canceled.
+02/05/2021 13:50:09,051 [140131348469504] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:50:23,803 [140287008569088] [INFO ] - log4cplus started.
+02/05/2021 13:50:23,803 [140287008569088] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:50:23,804 [140287008569088] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:50:23,804 [140287008569088] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:50:23,804 [140287008569088] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:50:23,809 [140287008569088] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:50:23,809 [140287008569088] [INFO ] - sdk log: login  success.
+02/05/2021 13:50:23,811 [140287008569088] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:50:24,812 [140287008569088] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:50:24,812 [140287008569088] [INFO ] - remove client, rshd=0
+02/05/2021 13:50:25,000 [140286955452160] [INFO ] - g_exit_system=1.
+02/05/2021 13:50:25,000 [140286955452160] [INFO ] - robot_event_thread exit.
+02/05/2021 13:50:25,000 [140286955452160] [INFO ] - robot event thread be canceled.
+02/05/2021 13:50:25,053 [140287008569088] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:50:57,519 [140028312667904] [INFO ] - log4cplus started.
+02/05/2021 13:50:57,519 [140028312667904] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:50:57,520 [140028312667904] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:50:57,520 [140028312667904] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:50:57,520 [140028312667904] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:50:57,523 [140028312667904] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:50:57,523 [140028312667904] [INFO ] - sdk log: login  success.
+02/05/2021 13:50:57,525 [140028312667904] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:50:58,526 [140028312667904] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:50:58,526 [140028312667904] [INFO ] - remove client, rshd=0
+02/05/2021 13:50:59,000 [140028259550976] [INFO ] - g_exit_system=1.
+02/05/2021 13:50:59,000 [140028259550976] [INFO ] - robot_event_thread exit.
+02/05/2021 13:50:59,000 [140028259550976] [INFO ] - robot event thread be canceled.
+02/05/2021 13:50:59,053 [140028312667904] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:51:02,303 [139923778864896] [INFO ] - log4cplus started.
+02/05/2021 13:51:02,303 [139923778864896] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:51:02,304 [139923778864896] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:51:02,304 [139923778864896] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:51:02,304 [139923778864896] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:51:02,312 [139923778864896] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:51:02,312 [139923778864896] [INFO ] - sdk log: login  success.
+02/05/2021 13:51:02,313 [139923778864896] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:51:03,315 [139923778864896] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:51:03,315 [139923778864896] [INFO ] - remove client, rshd=0
+02/05/2021 13:51:04,000 [139923725747968] [INFO ] - g_exit_system=1.
+02/05/2021 13:51:04,000 [139923725747968] [INFO ] - robot_event_thread exit.
+02/05/2021 13:51:04,000 [139923725747968] [INFO ] - robot event thread be canceled.
+02/05/2021 13:51:04,055 [139923778864896] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:51:41,341 [140006664734464] [INFO ] - log4cplus started.
+02/05/2021 13:51:41,341 [140006664734464] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:51:41,341 [140006664734464] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:51:41,341 [140006664734464] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:51:41,342 [140006664734464] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:51:41,346 [140006664734464] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:51:41,346 [140006664734464] [INFO ] - sdk log: login  success.
+02/05/2021 13:51:41,347 [140006664734464] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:51:42,349 [140006664734464] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:51:42,349 [140006664734464] [INFO ] - remove client, rshd=0
+02/05/2021 13:51:43,000 [140006611617536] [INFO ] - g_exit_system=1.
+02/05/2021 13:51:43,000 [140006611617536] [INFO ] - robot_event_thread exit.
+02/05/2021 13:51:43,000 [140006611617536] [INFO ] - robot event thread be canceled.
+02/05/2021 13:51:43,052 [140006664734464] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:55:05,625 [140108753618688] [INFO ] - log4cplus started.
+02/05/2021 13:55:05,625 [140108753618688] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:55:05,625 [140108753618688] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:55:05,625 [140108753618688] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:55:05,626 [140108753618688] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:55:05,630 [140108753618688] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:55:05,630 [140108753618688] [INFO ] - sdk log: login  success.
+02/05/2021 13:55:05,632 [140108753618688] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:56:00,336 [140108753618688] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:56:00,336 [140108753618688] [INFO ] - remove client, rshd=0
+02/05/2021 13:56:01,000 [140108700501760] [INFO ] - g_exit_system=1.
+02/05/2021 13:56:01,000 [140108700501760] [INFO ] - robot_event_thread exit.
+02/05/2021 13:56:01,000 [140108700501760] [INFO ] - robot event thread be canceled.
+02/05/2021 13:56:01,047 [140108753618688] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:56:01,227 [139938412074752] [INFO ] - log4cplus started.
+02/05/2021 13:56:01,227 [139938412074752] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:56:01,228 [139938412074752] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:56:01,228 [139938412074752] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:56:01,228 [139938412074752] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:56:01,232 [139938412074752] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:56:01,232 [139938412074752] [INFO ] - sdk log: login  success.
+02/05/2021 13:56:01,233 [139938412074752] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:56:04,654 [139938412074752] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:56:04,654 [139938412074752] [INFO ] - remove client, rshd=0
+02/05/2021 13:56:05,000 [139938358957824] [INFO ] - g_exit_system=1.
+02/05/2021 13:56:05,000 [139938358957824] [INFO ] - robot_event_thread exit.
+02/05/2021 13:56:05,000 [139938358957824] [INFO ] - robot event thread be canceled.
+02/05/2021 13:56:05,046 [139938412074752] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:56:09,924 [139747836978944] [INFO ] - log4cplus started.
+02/05/2021 13:56:09,924 [139747836978944] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:56:09,924 [139747836978944] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:56:09,925 [139747836978944] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:56:09,925 [139747836978944] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:56:09,928 [139747836978944] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:56:09,928 [139747836978944] [INFO ] - sdk log: login  success.
+02/05/2021 13:56:09,930 [139747836978944] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:56:14,398 [139747836978944] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:56:14,398 [139747836978944] [INFO ] - remove client, rshd=0
+02/05/2021 13:56:15,000 [139747783862016] [INFO ] - g_exit_system=1.
+02/05/2021 13:56:15,000 [139747783862016] [INFO ] - robot_event_thread exit.
+02/05/2021 13:56:15,000 [139747783862016] [INFO ] - robot event thread be canceled.
+02/05/2021 13:56:15,048 [139747836978944] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:57:04,800 [140190071191296] [INFO ] - log4cplus started.
+02/05/2021 13:57:04,800 [140190071191296] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:57:04,800 [140190071191296] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:57:04,801 [140190071191296] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:57:04,801 [140190071191296] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:57:04,804 [140190071191296] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:57:04,804 [140190071191296] [INFO ] - sdk log: login  success.
+02/05/2021 13:57:04,806 [140190071191296] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:57:08,205 [140190071191296] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:57:08,205 [140190071191296] [INFO ] - remove client, rshd=0
+02/05/2021 13:57:09,000 [140190018074368] [INFO ] - g_exit_system=1.
+02/05/2021 13:57:09,000 [140190018074368] [INFO ] - robot_event_thread exit.
+02/05/2021 13:57:09,000 [140190018074368] [INFO ] - robot event thread be canceled.
+02/05/2021 13:57:09,053 [140190071191296] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:57:55,730 [140102506641152] [INFO ] - log4cplus started.
+02/05/2021 13:57:55,730 [140102506641152] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:57:55,730 [140102506641152] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:57:55,731 [140102506641152] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:57:55,731 [140102506641152] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:57:55,734 [140102506641152] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:57:55,734 [140102506641152] [INFO ] - sdk log: login  success.
+02/05/2021 13:57:55,736 [140102506641152] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:58:15,899 [140102506641152] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:58:15,899 [140102506641152] [INFO ] - remove client, rshd=0
+02/05/2021 13:58:16,000 [140102453524224] [INFO ] - g_exit_system=1.
+02/05/2021 13:58:16,000 [140102453524224] [INFO ] - robot_event_thread exit.
+02/05/2021 13:58:16,000 [140102453524224] [INFO ] - robot event thread be canceled.
+02/05/2021 13:58:16,053 [140102506641152] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:58:26,003 [140069099599616] [INFO ] - log4cplus started.
+02/05/2021 13:58:26,003 [140069099599616] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:58:26,003 [140069099599616] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:58:26,003 [140069099599616] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:58:26,004 [140069099599616] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:58:26,007 [140069099599616] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:58:26,007 [140069099599616] [INFO ] - sdk log: login  success.
+02/05/2021 13:58:26,009 [140069099599616] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:58:33,563 [140069099599616] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:58:33,563 [140069099599616] [INFO ] - remove client, rshd=0
+02/05/2021 13:58:34,000 [140069046482688] [INFO ] - g_exit_system=1.
+02/05/2021 13:58:34,000 [140069046482688] [INFO ] - robot_event_thread exit.
+02/05/2021 13:58:34,000 [140069046482688] [INFO ] - robot event thread be canceled.
+02/05/2021 13:58:34,048 [140069099599616] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:58:40,452 [140268231698176] [INFO ] - log4cplus started.
+02/05/2021 13:58:40,452 [140268231698176] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:58:40,453 [140268231698176] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:58:40,453 [140268231698176] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:58:40,453 [140268231698176] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:58:40,457 [140268231698176] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:58:40,457 [140268231698176] [INFO ] - sdk log: login  success.
+02/05/2021 13:58:40,458 [140268231698176] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:58:49,195 [140268231698176] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:58:49,195 [140268231698176] [INFO ] - remove client, rshd=0
+02/05/2021 13:58:50,000 [140268178581248] [INFO ] - g_exit_system=1.
+02/05/2021 13:58:50,000 [140268178581248] [INFO ] - robot_event_thread exit.
+02/05/2021 13:58:50,000 [140268178581248] [INFO ] - robot event thread be canceled.
+02/05/2021 13:58:50,056 [140268231698176] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:58:55,923 [139775539898112] [INFO ] - log4cplus started.
+02/05/2021 13:58:55,923 [139775539898112] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:58:55,923 [139775539898112] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:58:55,924 [139775539898112] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:58:55,924 [139775539898112] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:58:55,927 [139775539898112] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:58:55,927 [139775539898112] [INFO ] - sdk log: login  success.
+02/05/2021 13:58:55,928 [139775539898112] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 13:59:04,014 [139775539898112] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:59:04,014 [139775539898112] [INFO ] - remove client, rshd=0
+02/05/2021 13:59:05,000 [139775486781184] [INFO ] - g_exit_system=1.
+02/05/2021 13:59:05,000 [139775486781184] [INFO ] - robot_event_thread exit.
+02/05/2021 13:59:05,000 [139775486781184] [INFO ] - robot event thread be canceled.
+02/05/2021 13:59:05,063 [139775539898112] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 13:59:59,105 [140472383518464] [INFO ] - log4cplus started.
+02/05/2021 13:59:59,105 [140472383518464] [INFO ] - call pyauboi5_initialize
+02/05/2021 13:59:59,106 [140472383518464] [INFO ] - creat context succ RSHD=0
+02/05/2021 13:59:59,106 [140472383518464] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 13:59:59,106 [140472383518464] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 13:59:59,111 [140472383518464] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 13:59:59,111 [140472383518464] [INFO ] - sdk log: login  success.
+02/05/2021 13:59:59,112 [140472383518464] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:00:41,689 [140472383518464] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:00:41,689 [140472383518464] [INFO ] - remove client, rshd=0
+02/05/2021 14:00:42,000 [140472330401536] [INFO ] - g_exit_system=1.
+02/05/2021 14:00:42,000 [140472330401536] [INFO ] - robot_event_thread exit.
+02/05/2021 14:00:42,000 [140472330401536] [INFO ] - robot event thread be canceled.
+02/05/2021 14:00:42,050 [140472383518464] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:00:42,398 [140601166944000] [INFO ] - log4cplus started.
+02/05/2021 14:00:42,398 [140601166944000] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:00:42,399 [140601166944000] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:00:42,399 [140601166944000] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:00:42,400 [140601166944000] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:00:42,403 [140601166944000] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:00:42,403 [140601166944000] [INFO ] - sdk log: login  success.
+02/05/2021 14:00:42,405 [140601166944000] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:00:43,641 [140601166944000] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:00:43,641 [140601166944000] [INFO ] - remove client, rshd=0
+02/05/2021 14:00:44,000 [140601113827072] [INFO ] - g_exit_system=1.
+02/05/2021 14:00:44,000 [140601113827072] [INFO ] - robot_event_thread exit.
+02/05/2021 14:00:44,000 [140601113827072] [INFO ] - robot event thread be canceled.
+02/05/2021 14:00:44,048 [140601166944000] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:00:45,724 [140082468890368] [INFO ] - log4cplus started.
+02/05/2021 14:00:45,724 [140082468890368] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:00:45,725 [140082468890368] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:00:45,725 [140082468890368] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:00:45,726 [140082468890368] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:00:45,730 [140082468890368] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:00:45,730 [140082468890368] [INFO ] - sdk log: login  success.
+02/05/2021 14:00:45,732 [140082468890368] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:00:51,704 [140082468890368] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:00:51,704 [140082468890368] [INFO ] - remove client, rshd=0
+02/05/2021 14:00:52,001 [140082415773440] [INFO ] - g_exit_system=1.
+02/05/2021 14:00:52,001 [140082415773440] [INFO ] - robot_event_thread exit.
+02/05/2021 14:00:52,001 [140082415773440] [INFO ] - robot event thread be canceled.
+02/05/2021 14:00:52,051 [140082468890368] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:01:39,264 [140280680888064] [INFO ] - log4cplus started.
+02/05/2021 14:01:39,264 [140280680888064] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:01:39,265 [140280680888064] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:01:39,265 [140280680888064] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:01:39,265 [140280680888064] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:01:39,269 [140280680888064] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:01:39,269 [140280680888064] [INFO ] - sdk log: login  success.
+02/05/2021 14:01:39,270 [140280680888064] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:01:47,146 [140280680888064] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:01:47,146 [140280680888064] [INFO ] - remove client, rshd=0
+02/05/2021 14:01:48,000 [140280627771136] [INFO ] - g_exit_system=1.
+02/05/2021 14:01:48,000 [140280627771136] [INFO ] - robot_event_thread exit.
+02/05/2021 14:01:48,000 [140280627771136] [INFO ] - robot event thread be canceled.
+02/05/2021 14:01:48,049 [140280680888064] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:01:59,854 [140524648544000] [INFO ] - log4cplus started.
+02/05/2021 14:01:59,854 [140524648544000] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:01:59,855 [140524648544000] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:01:59,855 [140524648544000] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:01:59,856 [140524648544000] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:01:59,860 [140524648544000] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:01:59,860 [140524648544000] [INFO ] - sdk log: login  success.
+02/05/2021 14:01:59,862 [140524648544000] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:02:07,207 [140524648544000] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:02:07,208 [140524648544000] [INFO ] - remove client, rshd=0
+02/05/2021 14:02:08,000 [140524595427072] [INFO ] - g_exit_system=1.
+02/05/2021 14:02:08,000 [140524595427072] [INFO ] - robot_event_thread exit.
+02/05/2021 14:02:08,000 [140524595427072] [INFO ] - robot event thread be canceled.
+02/05/2021 14:02:08,049 [140524648544000] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:02:12,381 [140279432742656] [INFO ] - log4cplus started.
+02/05/2021 14:02:12,381 [140279432742656] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:02:12,381 [140279432742656] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:02:12,381 [140279432742656] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:02:12,382 [140279432742656] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:02:12,386 [140279432742656] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:02:12,386 [140279432742656] [INFO ] - sdk log: login  success.
+02/05/2021 14:02:12,387 [140279432742656] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:02:27,033 [140279432742656] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:02:27,033 [140279432742656] [INFO ] - remove client, rshd=0
+02/05/2021 14:02:27,797 [140437090780928] [INFO ] - log4cplus started.
+02/05/2021 14:02:27,797 [140437090780928] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:02:27,798 [140437090780928] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:02:27,798 [140437090780928] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:02:27,798 [140437090780928] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:02:27,801 [140437090780928] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:02:27,801 [140437090780928] [INFO ] - sdk log: login  success.
+02/05/2021 14:02:27,803 [140437090780928] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:02:28,000 [140279379625728] [INFO ] - g_exit_system=1.
+02/05/2021 14:02:28,000 [140279379625728] [INFO ] - robot_event_thread exit.
+02/05/2021 14:02:28,000 [140279379625728] [INFO ] - robot event thread be canceled.
+02/05/2021 14:02:28,055 [140279432742656] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:02:40,504 [140437090780928] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:02:40,504 [140437090780928] [INFO ] - remove client, rshd=0
+02/05/2021 14:02:41,000 [140437037664000] [INFO ] - g_exit_system=1.
+02/05/2021 14:02:41,000 [140437037664000] [INFO ] - robot_event_thread exit.
+02/05/2021 14:02:41,000 [140437037664000] [INFO ] - robot event thread be canceled.
+02/05/2021 14:02:41,047 [140437090780928] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:03:46,670 [140301826275072] [INFO ] - log4cplus started.
+02/05/2021 14:03:46,670 [140301826275072] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:03:46,670 [140301826275072] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:03:46,670 [140301826275072] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:03:46,670 [140301826275072] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:03:46,674 [140301826275072] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:03:46,674 [140301826275072] [INFO ] - sdk log: login  success.
+02/05/2021 14:03:46,675 [140301826275072] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:04:28,069 [140301826275072] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:04:28,070 [140301826275072] [INFO ] - remove client, rshd=0
+02/05/2021 14:04:28,675 [140224765490944] [INFO ] - log4cplus started.
+02/05/2021 14:04:28,675 [140224765490944] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:04:28,676 [140224765490944] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:04:28,676 [140224765490944] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:04:28,676 [140224765490944] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:04:28,679 [140224765490944] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:04:28,679 [140224765490944] [INFO ] - sdk log: login  success.
+02/05/2021 14:04:28,680 [140224765490944] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:04:29,000 [140301773158144] [INFO ] - g_exit_system=1.
+02/05/2021 14:04:29,000 [140301773158144] [INFO ] - robot_event_thread exit.
+02/05/2021 14:04:29,000 [140301773158144] [INFO ] - robot event thread be canceled.
+02/05/2021 14:04:29,045 [140301826275072] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:04:38,347 [140224765490944] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:04:38,347 [140224765490944] [INFO ] - remove client, rshd=0
+02/05/2021 14:04:39,000 [140224712374016] [INFO ] - g_exit_system=1.
+02/05/2021 14:04:39,000 [140224712374016] [INFO ] - robot_event_thread exit.
+02/05/2021 14:04:39,000 [140224712374016] [INFO ] - robot event thread be canceled.
+02/05/2021 14:04:39,053 [140224765490944] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:04:44,672 [140190656214784] [INFO ] - log4cplus started.
+02/05/2021 14:04:44,673 [140190656214784] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:04:44,673 [140190656214784] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:04:44,673 [140190656214784] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:04:44,674 [140190656214784] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:04:44,677 [140190656214784] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:04:44,677 [140190656214784] [INFO ] - sdk log: login  success.
+02/05/2021 14:04:44,679 [140190656214784] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:04:48,933 [140190656214784] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:04:48,933 [140190656214784] [INFO ] - remove client, rshd=0
+02/05/2021 14:04:49,000 [140190603097856] [INFO ] - g_exit_system=1.
+02/05/2021 14:04:49,000 [140190603097856] [INFO ] - robot_event_thread exit.
+02/05/2021 14:04:49,000 [140190603097856] [INFO ] - robot event thread be canceled.
+02/05/2021 14:04:49,055 [140190656214784] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:05:53,804 [140238892009216] [INFO ] - log4cplus started.
+02/05/2021 14:05:53,804 [140238892009216] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:05:53,804 [140238892009216] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:05:53,805 [140238892009216] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:05:53,805 [140238892009216] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:05:53,809 [140238892009216] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:05:53,809 [140238892009216] [INFO ] - sdk log: login  success.
+02/05/2021 14:05:53,810 [140238892009216] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:05:54,811 [140238892009216] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:05:54,811 [140238892009216] [INFO ] - remove client, rshd=0
+02/05/2021 14:05:55,000 [140238838892288] [INFO ] - g_exit_system=1.
+02/05/2021 14:05:55,000 [140238838892288] [INFO ] - robot_event_thread exit.
+02/05/2021 14:05:55,000 [140238838892288] [INFO ] - robot event thread be canceled.
+02/05/2021 14:05:55,046 [140238892009216] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:06:13,051 [139896777393920] [INFO ] - log4cplus started.
+02/05/2021 14:06:13,051 [139896777393920] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:06:13,051 [139896777393920] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:06:13,052 [139896777393920] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:06:13,052 [139896777393920] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:06:13,056 [139896777393920] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:06:13,056 [139896777393920] [INFO ] - sdk log: login  success.
+02/05/2021 14:06:13,058 [139896777393920] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:06:28,692 [139896777393920] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:06:28,692 [139896777393920] [INFO ] - remove client, rshd=0
+02/05/2021 14:06:29,000 [139896724276992] [INFO ] - g_exit_system=1.
+02/05/2021 14:06:29,000 [139896724276992] [INFO ] - robot_event_thread exit.
+02/05/2021 14:06:29,000 [139896724276992] [INFO ] - robot event thread be canceled.
+02/05/2021 14:06:29,047 [139896777393920] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:06:52,833 [139660416083712] [INFO ] - log4cplus started.
+02/05/2021 14:06:52,833 [139660416083712] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:06:52,834 [139660416083712] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:06:52,834 [139660416083712] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:06:52,834 [139660416083712] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:06:52,838 [139660416083712] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:06:52,838 [139660416083712] [INFO ] - sdk log: login  success.
+02/05/2021 14:06:52,840 [139660416083712] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:06:57,940 [139660416083712] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:06:57,941 [139660416083712] [INFO ] - remove client, rshd=0
+02/05/2021 14:06:58,000 [139660362966784] [INFO ] - g_exit_system=1.
+02/05/2021 14:06:58,000 [139660362966784] [INFO ] - robot_event_thread exit.
+02/05/2021 14:06:58,000 [139660362966784] [INFO ] - robot event thread be canceled.
+02/05/2021 14:06:58,047 [139660416083712] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:07:14,539 [140401091708672] [INFO ] - log4cplus started.
+02/05/2021 14:07:14,540 [140401091708672] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:07:14,540 [140401091708672] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:07:14,540 [140401091708672] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:07:14,540 [140401091708672] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:07:14,543 [140401091708672] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:07:14,543 [140401091708672] [INFO ] - sdk log: login  success.
+02/05/2021 14:07:14,545 [140401091708672] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:07:38,757 [140401091708672] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:07:38,757 [140401091708672] [INFO ] - remove client, rshd=0
+02/05/2021 14:07:39,000 [140401038591744] [INFO ] - g_exit_system=1.
+02/05/2021 14:07:39,000 [140401038591744] [INFO ] - robot_event_thread exit.
+02/05/2021 14:07:39,000 [140401038591744] [INFO ] - robot event thread be canceled.
+02/05/2021 14:07:39,050 [140401091708672] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:07:39,241 [139858751112960] [INFO ] - log4cplus started.
+02/05/2021 14:07:39,241 [139858751112960] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:07:39,241 [139858751112960] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:07:39,241 [139858751112960] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:07:39,242 [139858751112960] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:07:39,246 [139858751112960] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:07:39,246 [139858751112960] [INFO ] - sdk log: login  success.
+02/05/2021 14:07:39,247 [139858751112960] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:09:56,114 [139858751112960] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:09:56,114 [139858751112960] [INFO ] - remove client, rshd=0
+02/05/2021 14:09:56,950 [140068860958464] [INFO ] - log4cplus started.
+02/05/2021 14:09:56,950 [140068860958464] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:09:56,950 [140068860958464] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:09:56,951 [140068860958464] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:09:56,951 [140068860958464] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:09:56,954 [140068860958464] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:09:56,954 [140068860958464] [INFO ] - sdk log: login  success.
+02/05/2021 14:09:56,955 [140068860958464] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:09:57,000 [139858697996032] [INFO ] - g_exit_system=1.
+02/05/2021 14:09:57,000 [139858697996032] [INFO ] - robot_event_thread exit.
+02/05/2021 14:09:57,000 [139858697996032] [INFO ] - robot event thread be canceled.
+02/05/2021 14:09:57,051 [139858751112960] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:09:57,956 [140068860958464] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:09:57,956 [140068860958464] [INFO ] - remove client, rshd=0
+02/05/2021 14:09:58,000 [140068807841536] [INFO ] - g_exit_system=1.
+02/05/2021 14:09:58,000 [140068807841536] [INFO ] - robot_event_thread exit.
+02/05/2021 14:09:58,000 [140068807841536] [INFO ] - robot event thread be canceled.
+02/05/2021 14:09:58,046 [140068860958464] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:10:20,912 [139731239155456] [INFO ] - log4cplus started.
+02/05/2021 14:10:20,912 [139731239155456] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:10:20,913 [139731239155456] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:10:20,913 [139731239155456] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:10:20,913 [139731239155456] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:10:20,916 [139731239155456] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:10:20,916 [139731239155456] [INFO ] - sdk log: login  success.
+02/05/2021 14:10:20,917 [139731239155456] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:10:21,918 [139731239155456] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:10:21,918 [139731239155456] [INFO ] - remove client, rshd=0
+02/05/2021 14:10:22,000 [139731186038528] [INFO ] - g_exit_system=1.
+02/05/2021 14:10:22,000 [139731186038528] [INFO ] - robot_event_thread exit.
+02/05/2021 14:10:22,000 [139731186038528] [INFO ] - robot event thread be canceled.
+02/05/2021 14:10:22,046 [139731239155456] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:11:54,251 [139958993331968] [INFO ] - log4cplus started.
+02/05/2021 14:11:54,251 [139958993331968] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:11:54,251 [139958993331968] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:11:54,252 [139958993331968] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:11:54,252 [139958993331968] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:11:54,255 [139958993331968] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:11:54,255 [139958993331968] [INFO ] - sdk log: login  success.
+02/05/2021 14:11:54,256 [139958993331968] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:12:01,185 [139958993331968] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:12:01,185 [139958993331968] [INFO ] - remove client, rshd=0
+02/05/2021 14:12:02,000 [139958940215040] [INFO ] - g_exit_system=1.
+02/05/2021 14:12:02,000 [139958940215040] [INFO ] - robot_event_thread exit.
+02/05/2021 14:12:02,000 [139958940215040] [INFO ] - robot event thread be canceled.
+02/05/2021 14:12:02,046 [139958993331968] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:12:10,231 [140617385973504] [INFO ] - log4cplus started.
+02/05/2021 14:12:10,231 [140617385973504] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:12:10,231 [140617385973504] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:12:10,232 [140617385973504] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:12:10,232 [140617385973504] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:12:10,235 [140617385973504] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:12:10,235 [140617385973504] [INFO ] - sdk log: login  success.
+02/05/2021 14:12:10,237 [140617385973504] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:12:11,238 [140617385973504] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:12:11,238 [140617385973504] [INFO ] - remove client, rshd=0
+02/05/2021 14:12:12,000 [140617332856576] [INFO ] - g_exit_system=1.
+02/05/2021 14:12:12,000 [140617332856576] [INFO ] - robot_event_thread exit.
+02/05/2021 14:12:12,000 [140617332856576] [INFO ] - robot event thread be canceled.
+02/05/2021 14:12:12,046 [140617385973504] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:12:25,734 [139781807003392] [INFO ] - log4cplus started.
+02/05/2021 14:12:25,735 [139781807003392] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:12:25,735 [139781807003392] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:12:25,735 [139781807003392] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:12:25,735 [139781807003392] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:12:25,739 [139781807003392] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:12:25,739 [139781807003392] [INFO ] - sdk log: login  success.
+02/05/2021 14:12:25,741 [139781807003392] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:12:49,201 [139781807003392] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:12:49,201 [139781807003392] [INFO ] - remove client, rshd=0
+02/05/2021 14:12:50,000 [139781753886464] [INFO ] - g_exit_system=1.
+02/05/2021 14:12:50,000 [139781753886464] [INFO ] - robot_event_thread exit.
+02/05/2021 14:12:50,000 [139781753886464] [INFO ] - robot event thread be canceled.
+02/05/2021 14:12:50,046 [139781807003392] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:12:54,810 [140390502868736] [INFO ] - log4cplus started.
+02/05/2021 14:12:54,810 [140390502868736] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:12:54,810 [140390502868736] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:12:54,810 [140390502868736] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:12:54,811 [140390502868736] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:12:54,814 [140390502868736] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:12:54,814 [140390502868736] [INFO ] - sdk log: login  success.
+02/05/2021 14:12:54,816 [140390502868736] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:13:55,743 [140390502868736] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:13:55,743 [140390502868736] [INFO ] - remove client, rshd=0
+02/05/2021 14:13:56,000 [140390449751808] [INFO ] - g_exit_system=1.
+02/05/2021 14:13:56,000 [140390449751808] [INFO ] - robot_event_thread exit.
+02/05/2021 14:13:56,000 [140390449751808] [INFO ] - robot event thread be canceled.
+02/05/2021 14:13:56,049 [140390502868736] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:13:56,589 [140545589597952] [INFO ] - log4cplus started.
+02/05/2021 14:13:56,589 [140545589597952] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:13:56,589 [140545589597952] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:13:56,589 [140545589597952] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:13:56,590 [140545589597952] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:13:56,593 [140545589597952] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:13:56,593 [140545589597952] [INFO ] - sdk log: login  success.
+02/05/2021 14:13:56,594 [140545589597952] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:14:10,783 [140545589597952] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:14:10,783 [140545589597952] [INFO ] - remove client, rshd=0
+02/05/2021 14:14:11,000 [140545536481024] [INFO ] - g_exit_system=1.
+02/05/2021 14:14:11,000 [140545536481024] [INFO ] - robot_event_thread exit.
+02/05/2021 14:14:11,000 [140545536481024] [INFO ] - robot event thread be canceled.
+02/05/2021 14:14:11,050 [140545589597952] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:14:20,041 [140475937670912] [INFO ] - log4cplus started.
+02/05/2021 14:14:20,041 [140475937670912] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:14:20,042 [140475937670912] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:14:20,042 [140475937670912] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:14:20,042 [140475937670912] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:14:20,045 [140475937670912] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:14:20,045 [140475937670912] [INFO ] - sdk log: login  success.
+02/05/2021 14:14:20,047 [140475937670912] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:15:11,792 [140475937670912] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:15:11,793 [140475937670912] [INFO ] - remove client, rshd=0
+02/05/2021 14:15:11,864 [140691963447040] [INFO ] - log4cplus started.
+02/05/2021 14:15:11,864 [140691963447040] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:15:11,864 [140691963447040] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:15:11,864 [140691963447040] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:15:11,864 [140691963447040] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:15:11,868 [140691963447040] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:15:11,868 [140691963447040] [INFO ] - sdk log: login  success.
+02/05/2021 14:15:11,870 [140691963447040] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:15:12,000 [140475884553984] [INFO ] - g_exit_system=1.
+02/05/2021 14:15:12,000 [140475884553984] [INFO ] - robot_event_thread exit.
+02/05/2021 14:15:12,000 [140475884553984] [INFO ] - robot event thread be canceled.
+02/05/2021 14:15:12,047 [140475937670912] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:15:57,246 [140691963447040] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:15:57,246 [140691963447040] [INFO ] - remove client, rshd=0
+02/05/2021 14:15:58,000 [140691910330112] [INFO ] - g_exit_system=1.
+02/05/2021 14:15:58,000 [140691910330112] [INFO ] - robot_event_thread exit.
+02/05/2021 14:15:58,000 [140691910330112] [INFO ] - robot event thread be canceled.
+02/05/2021 14:15:58,062 [140691963447040] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:15:59,155 [140391191725824] [INFO ] - log4cplus started.
+02/05/2021 14:15:59,155 [140391191725824] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:15:59,155 [140391191725824] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:15:59,155 [140391191725824] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:15:59,155 [140391191725824] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:15:59,159 [140391191725824] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:15:59,159 [140391191725824] [INFO ] - sdk log: login  success.
+02/05/2021 14:15:59,160 [140391191725824] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:16:07,279 [140391191725824] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:16:07,279 [140391191725824] [INFO ] - remove client, rshd=0
+02/05/2021 14:16:08,000 [140391138608896] [INFO ] - g_exit_system=1.
+02/05/2021 14:16:08,000 [140391138608896] [INFO ] - robot_event_thread exit.
+02/05/2021 14:16:08,000 [140391138608896] [INFO ] - robot event thread be canceled.
+02/05/2021 14:16:08,046 [140391191725824] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:16:35,970 [139877334279936] [INFO ] - log4cplus started.
+02/05/2021 14:16:35,971 [139877334279936] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:16:35,971 [139877334279936] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:16:35,971 [139877334279936] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:16:35,971 [139877334279936] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:16:35,974 [139877334279936] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:16:35,975 [139877334279936] [INFO ] - sdk log: login  success.
+02/05/2021 14:16:35,976 [139877334279936] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:16:46,348 [139877334279936] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:16:46,348 [139877334279936] [INFO ] - remove client, rshd=0
+02/05/2021 14:16:47,000 [139877281163008] [INFO ] - g_exit_system=1.
+02/05/2021 14:16:47,000 [139877281163008] [INFO ] - robot_event_thread exit.
+02/05/2021 14:16:47,000 [139877281163008] [INFO ] - robot event thread be canceled.
+02/05/2021 14:16:47,048 [139877334279936] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:17:46,643 [140160776836864] [INFO ] - log4cplus started.
+02/05/2021 14:17:46,643 [140160776836864] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:17:46,643 [140160776836864] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:17:46,643 [140160776836864] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:17:46,644 [140160776836864] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:17:46,647 [140160776836864] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:17:46,647 [140160776836864] [INFO ] - sdk log: login  success.
+02/05/2021 14:17:46,648 [140160776836864] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:17:56,748 [140160776836864] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:17:56,748 [140160776836864] [INFO ] - remove client, rshd=0
+02/05/2021 14:17:57,000 [140160723719936] [INFO ] - g_exit_system=1.
+02/05/2021 14:17:57,000 [140160723719936] [INFO ] - robot_event_thread exit.
+02/05/2021 14:17:57,000 [140160723719936] [INFO ] - robot event thread be canceled.
+02/05/2021 14:17:57,048 [140160776836864] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:18:14,944 [140048148461312] [INFO ] - log4cplus started.
+02/05/2021 14:18:14,944 [140048148461312] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:18:14,944 [140048148461312] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:18:14,944 [140048148461312] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:18:14,944 [140048148461312] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:18:14,947 [140048148461312] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:18:14,947 [140048148461312] [INFO ] - sdk log: login  success.
+02/05/2021 14:18:14,948 [140048148461312] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:18:19,995 [140048148461312] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:18:19,995 [140048148461312] [INFO ] - remove client, rshd=0
+02/05/2021 14:18:20,000 [140048095344384] [INFO ] - g_exit_system=1.
+02/05/2021 14:18:20,000 [140048095344384] [INFO ] - robot_event_thread exit.
+02/05/2021 14:18:20,000 [140048095344384] [INFO ] - robot event thread be canceled.
+02/05/2021 14:18:20,047 [140048148461312] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:18:45,203 [140657870464768] [INFO ] - log4cplus started.
+02/05/2021 14:18:45,203 [140657870464768] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:18:45,203 [140657870464768] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:18:45,204 [140657870464768] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:18:45,204 [140657870464768] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:18:45,207 [140657870464768] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:18:45,207 [140657870464768] [INFO ] - sdk log: login  success.
+02/05/2021 14:18:45,208 [140657870464768] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:18:53,963 [140657870464768] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:18:53,963 [140657870464768] [INFO ] - remove client, rshd=0
+02/05/2021 14:18:54,000 [140657817347840] [INFO ] - g_exit_system=1.
+02/05/2021 14:18:54,000 [140657817347840] [INFO ] - robot_event_thread exit.
+02/05/2021 14:18:54,000 [140657817347840] [INFO ] - robot event thread be canceled.
+02/05/2021 14:18:54,044 [140657870464768] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:19:09,153 [139932420638464] [INFO ] - log4cplus started.
+02/05/2021 14:19:09,153 [139932420638464] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:19:09,154 [139932420638464] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:19:09,154 [139932420638464] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:19:09,154 [139932420638464] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:19:09,157 [139932420638464] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:19:09,157 [139932420638464] [INFO ] - sdk log: login  success.
+02/05/2021 14:19:09,162 [139932420638464] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:19:21,964 [139932420638464] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:19:21,964 [139932420638464] [INFO ] - remove client, rshd=0
+02/05/2021 14:19:22,000 [139932367521536] [INFO ] - g_exit_system=1.
+02/05/2021 14:19:22,000 [139932367521536] [INFO ] - robot_event_thread exit.
+02/05/2021 14:19:22,000 [139932367521536] [INFO ] - robot event thread be canceled.
+02/05/2021 14:19:22,048 [139932420638464] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:19:35,442 [139814831384320] [INFO ] - log4cplus started.
+02/05/2021 14:19:35,443 [139814831384320] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:19:35,443 [139814831384320] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:19:35,443 [139814831384320] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:19:35,443 [139814831384320] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:19:35,447 [139814831384320] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:19:35,447 [139814831384320] [INFO ] - sdk log: login  success.
+02/05/2021 14:19:35,448 [139814831384320] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:19:42,810 [139814831384320] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:19:42,810 [139814831384320] [INFO ] - remove client, rshd=0
+02/05/2021 14:19:43,000 [139814778267392] [INFO ] - g_exit_system=1.
+02/05/2021 14:19:43,000 [139814778267392] [INFO ] - robot_event_thread exit.
+02/05/2021 14:19:43,000 [139814778267392] [INFO ] - robot event thread be canceled.
+02/05/2021 14:19:43,062 [139814831384320] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:21:27,727 [140646410176256] [INFO ] - log4cplus started.
+02/05/2021 14:21:27,727 [140646410176256] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:21:27,727 [140646410176256] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:21:27,727 [140646410176256] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:21:27,728 [140646410176256] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:21:27,733 [140646410176256] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:21:27,733 [140646410176256] [INFO ] - sdk log: login  success.
+02/05/2021 14:21:27,734 [140646410176256] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:21:30,826 [140646410176256] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:21:30,826 [140646410176256] [INFO ] - remove client, rshd=0
+02/05/2021 14:21:31,000 [140646357059328] [INFO ] - g_exit_system=1.
+02/05/2021 14:21:31,000 [140646357059328] [INFO ] - robot_event_thread exit.
+02/05/2021 14:21:31,000 [140646357059328] [INFO ] - robot event thread be canceled.
+02/05/2021 14:21:31,046 [140646410176256] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:22:51,915 [139847789037312] [INFO ] - log4cplus started.
+02/05/2021 14:22:51,915 [139847789037312] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:22:51,916 [139847789037312] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:22:51,916 [139847789037312] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:22:51,916 [139847789037312] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:22:51,919 [139847789037312] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:22:51,919 [139847789037312] [INFO ] - sdk log: login  success.
+02/05/2021 14:22:51,920 [139847789037312] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:22:54,792 [139847789037312] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:22:54,792 [139847789037312] [INFO ] - remove client, rshd=0
+02/05/2021 14:22:55,000 [139847735920384] [INFO ] - g_exit_system=1.
+02/05/2021 14:22:55,000 [139847735920384] [INFO ] - robot_event_thread exit.
+02/05/2021 14:22:55,000 [139847735920384] [INFO ] - robot event thread be canceled.
+02/05/2021 14:22:55,047 [139847789037312] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:23:20,192 [140424520533760] [INFO ] - log4cplus started.
+02/05/2021 14:23:20,192 [140424520533760] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:23:20,192 [140424520533760] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:23:20,193 [140424520533760] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:23:20,193 [140424520533760] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:23:20,199 [140424520533760] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:23:20,199 [140424520533760] [INFO ] - sdk log: login  success.
+02/05/2021 14:23:20,201 [140424520533760] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:23:23,080 [140424520533760] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:23:23,080 [140424520533760] [INFO ] - remove client, rshd=0
+02/05/2021 14:23:24,000 [140424467416832] [INFO ] - g_exit_system=1.
+02/05/2021 14:23:24,000 [140424467416832] [INFO ] - robot_event_thread exit.
+02/05/2021 14:23:24,001 [140424467416832] [INFO ] - robot event thread be canceled.
+02/05/2021 14:23:24,045 [140424520533760] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:36:16,983 [140530197640960] [INFO ] - log4cplus started.
+02/05/2021 14:36:16,983 [140530197640960] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:36:16,984 [140530197640960] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:36:16,984 [140530197640960] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:36:16,984 [140530197640960] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:36:16,988 [140530197640960] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:36:16,988 [140530197640960] [INFO ] - sdk log: login  success.
+02/05/2021 14:36:16,989 [140530197640960] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:36:17,991 [140530197640960] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:36:17,991 [140530197640960] [INFO ] - remove client, rshd=0
+02/05/2021 14:36:18,000 [140530144524032] [INFO ] - g_exit_system=1.
+02/05/2021 14:36:18,000 [140530144524032] [INFO ] - robot_event_thread exit.
+02/05/2021 14:36:18,000 [140530144524032] [INFO ] - robot event thread be canceled.
+02/05/2021 14:36:18,046 [140530197640960] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:36:30,772 [140591429654272] [INFO ] - log4cplus started.
+02/05/2021 14:36:30,772 [140591429654272] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:36:30,772 [140591429654272] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:36:30,773 [140591429654272] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:36:30,773 [140591429654272] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:36:30,776 [140591429654272] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:36:30,776 [140591429654272] [INFO ] - sdk log: login  success.
+02/05/2021 14:36:30,777 [140591429654272] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:36:31,780 [140591429654272] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:36:31,780 [140591429654272] [INFO ] - remove client, rshd=0
+02/05/2021 14:36:32,000 [140591376537344] [INFO ] - g_exit_system=1.
+02/05/2021 14:36:32,000 [140591376537344] [INFO ] - robot_event_thread exit.
+02/05/2021 14:36:32,000 [140591376537344] [INFO ] - robot event thread be canceled.
+02/05/2021 14:36:32,046 [140591429654272] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:36:42,356 [140431304238848] [INFO ] - log4cplus started.
+02/05/2021 14:36:42,356 [140431304238848] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:36:42,356 [140431304238848] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:36:42,356 [140431304238848] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:36:42,356 [140431304238848] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:36:42,359 [140431304238848] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:36:42,359 [140431304238848] [INFO ] - sdk log: login  success.
+02/05/2021 14:36:42,360 [140431304238848] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:36:43,363 [140431304238848] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:36:43,363 [140431304238848] [INFO ] - remove client, rshd=0
+02/05/2021 14:36:44,000 [140431251121920] [INFO ] - g_exit_system=1.
+02/05/2021 14:36:44,000 [140431251121920] [INFO ] - robot_event_thread exit.
+02/05/2021 14:36:44,000 [140431251121920] [INFO ] - robot event thread be canceled.
+02/05/2021 14:36:44,050 [140431304238848] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:36:50,091 [140506156025600] [INFO ] - log4cplus started.
+02/05/2021 14:36:50,091 [140506156025600] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:36:50,091 [140506156025600] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:36:50,092 [140506156025600] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:36:50,092 [140506156025600] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:36:50,095 [140506156025600] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:36:50,095 [140506156025600] [INFO ] - sdk log: login  success.
+02/05/2021 14:36:50,096 [140506156025600] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:36:51,099 [140506156025600] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:36:51,099 [140506156025600] [INFO ] - remove client, rshd=0
+02/05/2021 14:36:52,000 [140506102908672] [INFO ] - g_exit_system=1.
+02/05/2021 14:36:52,000 [140506102908672] [INFO ] - robot_event_thread exit.
+02/05/2021 14:36:52,000 [140506102908672] [INFO ] - robot event thread be canceled.
+02/05/2021 14:36:52,047 [140506156025600] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:36:52,315 [140636625520384] [INFO ] - log4cplus started.
+02/05/2021 14:36:52,315 [140636625520384] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:36:52,315 [140636625520384] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:36:52,315 [140636625520384] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:36:52,316 [140636625520384] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:36:52,318 [140636625520384] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:36:52,318 [140636625520384] [INFO ] - sdk log: login  success.
+02/05/2021 14:36:52,320 [140636625520384] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:36:53,322 [140636625520384] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:36:53,322 [140636625520384] [INFO ] - remove client, rshd=0
+02/05/2021 14:36:53,503 [140135128983296] [INFO ] - log4cplus started.
+02/05/2021 14:36:53,503 [140135128983296] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:36:53,503 [140135128983296] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:36:53,503 [140135128983296] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:36:53,504 [140135128983296] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:36:53,508 [140135128983296] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:36:53,508 [140135128983296] [INFO ] - sdk log: login  success.
+02/05/2021 14:36:53,509 [140135128983296] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:36:54,000 [140636572403456] [INFO ] - g_exit_system=1.
+02/05/2021 14:36:54,000 [140636572403456] [INFO ] - robot_event_thread exit.
+02/05/2021 14:36:54,000 [140636572403456] [INFO ] - robot event thread be canceled.
+02/05/2021 14:36:54,049 [140636625520384] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:36:54,513 [140135128983296] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:36:54,513 [140135128983296] [INFO ] - remove client, rshd=0
+02/05/2021 14:36:55,000 [140135075866368] [INFO ] - g_exit_system=1.
+02/05/2021 14:36:55,000 [140135075866368] [INFO ] - robot_event_thread exit.
+02/05/2021 14:36:55,000 [140135075866368] [INFO ] - robot event thread be canceled.
+02/05/2021 14:36:55,047 [140135128983296] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:36:56,379 [139657178691328] [INFO ] - log4cplus started.
+02/05/2021 14:36:56,379 [139657178691328] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:36:56,380 [139657178691328] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:36:56,380 [139657178691328] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:36:56,380 [139657178691328] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:36:56,387 [139657178691328] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:36:56,387 [139657178691328] [INFO ] - sdk log: login  success.
+02/05/2021 14:36:56,390 [139657178691328] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:36:57,393 [139657178691328] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:36:57,393 [139657178691328] [INFO ] - remove client, rshd=0
+02/05/2021 14:36:57,737 [140469050455808] [INFO ] - log4cplus started.
+02/05/2021 14:36:57,737 [140469050455808] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:36:57,737 [140469050455808] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:36:57,738 [140469050455808] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:36:57,738 [140469050455808] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:36:57,741 [140469050455808] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:36:57,741 [140469050455808] [INFO ] - sdk log: login  success.
+02/05/2021 14:36:57,742 [140469050455808] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:36:58,000 [139657125574400] [INFO ] - g_exit_system=1.
+02/05/2021 14:36:58,000 [139657125574400] [INFO ] - robot_event_thread exit.
+02/05/2021 14:36:58,000 [139657125574400] [INFO ] - robot event thread be canceled.
+02/05/2021 14:36:58,046 [139657178691328] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:36:58,746 [140469050455808] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:36:58,746 [140469050455808] [INFO ] - remove client, rshd=0
+02/05/2021 14:36:59,000 [140468997338880] [INFO ] - g_exit_system=1.
+02/05/2021 14:36:59,000 [140468997338880] [INFO ] - robot_event_thread exit.
+02/05/2021 14:36:59,000 [140468997338880] [INFO ] - robot event thread be canceled.
+02/05/2021 14:36:59,050 [140469050455808] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:37:04,676 [140127833548544] [INFO ] - log4cplus started.
+02/05/2021 14:37:04,676 [140127833548544] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:37:04,676 [140127833548544] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:37:04,676 [140127833548544] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:37:04,676 [140127833548544] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:37:04,680 [140127833548544] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:37:04,680 [140127833548544] [INFO ] - sdk log: login  success.
+02/05/2021 14:37:04,681 [140127833548544] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:37:05,797 [140127833548544] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:37:05,797 [140127833548544] [INFO ] - remove client, rshd=0
+02/05/2021 14:37:06,000 [140127780431616] [INFO ] - g_exit_system=1.
+02/05/2021 14:37:06,000 [140127780431616] [INFO ] - robot_event_thread exit.
+02/05/2021 14:37:06,000 [140127780431616] [INFO ] - robot event thread be canceled.
+02/05/2021 14:37:06,052 [140127833548544] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:37:08,501 [140147549193984] [INFO ] - log4cplus started.
+02/05/2021 14:37:08,501 [140147549193984] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:37:08,501 [140147549193984] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:37:08,501 [140147549193984] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:37:08,501 [140147549193984] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:37:08,508 [140147549193984] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:37:08,508 [140147549193984] [INFO ] - sdk log: login  success.
+02/05/2021 14:37:08,510 [140147549193984] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:37:09,625 [140147549193984] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:37:09,625 [140147549193984] [INFO ] - remove client, rshd=0
+02/05/2021 14:37:10,000 [140147496077056] [INFO ] - g_exit_system=1.
+02/05/2021 14:37:10,000 [140147496077056] [INFO ] - robot_event_thread exit.
+02/05/2021 14:37:10,000 [140147496077056] [INFO ] - robot event thread be canceled.
+02/05/2021 14:37:10,045 [140147549193984] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:38:54,515 [140616284002048] [INFO ] - log4cplus started.
+02/05/2021 14:38:54,515 [140616284002048] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:38:54,515 [140616284002048] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:38:54,515 [140616284002048] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:38:54,515 [140616284002048] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:38:54,521 [140616284002048] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:38:54,521 [140616284002048] [INFO ] - sdk log: login  success.
+02/05/2021 14:38:54,524 [140616284002048] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:38:55,639 [140616284002048] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:38:55,639 [140616284002048] [INFO ] - remove client, rshd=0
+02/05/2021 14:38:56,000 [140616230885120] [INFO ] - g_exit_system=1.
+02/05/2021 14:38:56,000 [140616230885120] [INFO ] - robot_event_thread exit.
+02/05/2021 14:38:56,000 [140616230885120] [INFO ] - robot event thread be canceled.
+02/05/2021 14:38:56,047 [140616284002048] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:38:56,429 [139937423062784] [INFO ] - log4cplus started.
+02/05/2021 14:38:56,429 [139937423062784] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:38:56,429 [139937423062784] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:38:56,429 [139937423062784] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:38:56,429 [139937423062784] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:38:56,432 [139937423062784] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:38:56,432 [139937423062784] [INFO ] - sdk log: login  success.
+02/05/2021 14:38:56,433 [139937423062784] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:38:57,549 [139937423062784] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:38:57,549 [139937423062784] [INFO ] - remove client, rshd=0
+02/05/2021 14:38:58,000 [139937369945856] [INFO ] - g_exit_system=1.
+02/05/2021 14:38:58,000 [139937369945856] [INFO ] - robot_event_thread exit.
+02/05/2021 14:38:58,000 [139937369945856] [INFO ] - robot event thread be canceled.
+02/05/2021 14:38:58,047 [139937423062784] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:39:01,055 [140326811404032] [INFO ] - log4cplus started.
+02/05/2021 14:39:01,055 [140326811404032] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:39:01,056 [140326811404032] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:39:01,056 [140326811404032] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:39:01,056 [140326811404032] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:39:01,060 [140326811404032] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:39:01,060 [140326811404032] [INFO ] - sdk log: login  success.
+02/05/2021 14:39:01,062 [140326811404032] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:39:02,179 [140326811404032] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:39:02,179 [140326811404032] [INFO ] - remove client, rshd=0
+02/05/2021 14:39:03,000 [140326758287104] [INFO ] - g_exit_system=1.
+02/05/2021 14:39:03,000 [140326758287104] [INFO ] - robot_event_thread exit.
+02/05/2021 14:39:03,000 [140326758287104] [INFO ] - robot event thread be canceled.
+02/05/2021 14:39:03,046 [140326811404032] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:39:31,738 [140651067979520] [INFO ] - log4cplus started.
+02/05/2021 14:39:31,738 [140651067979520] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:39:31,739 [140651067979520] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:39:31,739 [140651067979520] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:39:31,739 [140651067979520] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:39:31,744 [140651067979520] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:39:31,744 [140651067979520] [INFO ] - sdk log: login  success.
+02/05/2021 14:39:31,747 [140651067979520] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:39:32,864 [140651067979520] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:39:32,864 [140651067979520] [INFO ] - remove client, rshd=0
+02/05/2021 14:39:33,000 [140651014862592] [INFO ] - g_exit_system=1.
+02/05/2021 14:39:33,000 [140651014862592] [INFO ] - robot_event_thread exit.
+02/05/2021 14:39:33,000 [140651014862592] [INFO ] - robot event thread be canceled.
+02/05/2021 14:39:33,046 [140651067979520] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:40:17,258 [139921676928768] [INFO ] - log4cplus started.
+02/05/2021 14:40:17,258 [139921676928768] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:40:17,258 [139921676928768] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:40:17,259 [139921676928768] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:40:17,259 [139921676928768] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:40:17,263 [139921676928768] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:40:17,264 [139921676928768] [INFO ] - sdk log: login  success.
+02/05/2021 14:40:17,265 [139921676928768] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:40:18,381 [139921676928768] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:40:18,381 [139921676928768] [INFO ] - remove client, rshd=0
+02/05/2021 14:40:19,000 [139921623811840] [INFO ] - g_exit_system=1.
+02/05/2021 14:40:19,000 [139921623811840] [INFO ] - robot_event_thread exit.
+02/05/2021 14:40:19,000 [139921623811840] [INFO ] - robot event thread be canceled.
+02/05/2021 14:40:19,000 [139921676928768] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:40:27,498 [139735548630784] [INFO ] - log4cplus started.
+02/05/2021 14:40:27,498 [139735548630784] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:40:27,498 [139735548630784] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:40:27,499 [139735548630784] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:40:27,499 [139735548630784] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:40:27,503 [139735548630784] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:40:27,503 [139735548630784] [INFO ] - sdk log: login  success.
+02/05/2021 14:40:27,505 [139735548630784] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:40:28,623 [139735548630784] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:40:28,623 [139735548630784] [INFO ] - remove client, rshd=0
+02/05/2021 14:40:29,000 [139735495513856] [INFO ] - g_exit_system=1.
+02/05/2021 14:40:29,000 [139735495513856] [INFO ] - robot_event_thread exit.
+02/05/2021 14:40:29,000 [139735495513856] [INFO ] - robot event thread be canceled.
+02/05/2021 14:40:29,000 [139735548630784] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:40:52,217 [139878999701248] [INFO ] - log4cplus started.
+02/05/2021 14:40:52,217 [139878999701248] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:40:52,218 [139878999701248] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:40:52,218 [139878999701248] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:40:52,218 [139878999701248] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:40:52,222 [139878999701248] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:40:52,222 [139878999701248] [INFO ] - sdk log: login  success.
+02/05/2021 14:40:52,224 [139878999701248] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:40:53,339 [139878999701248] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:40:53,339 [139878999701248] [INFO ] - remove client, rshd=0
+02/05/2021 14:40:54,000 [139878946584320] [INFO ] - g_exit_system=1.
+02/05/2021 14:40:54,000 [139878946584320] [INFO ] - robot_event_thread exit.
+02/05/2021 14:40:54,000 [139878946584320] [INFO ] - robot event thread be canceled.
+02/05/2021 14:40:54,000 [139878999701248] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:41:29,264 [139871251040000] [INFO ] - log4cplus started.
+02/05/2021 14:41:29,264 [139871251040000] [INFO ] - call pyauboi5_initialize
+02/05/2021 14:41:29,265 [139871251040000] [INFO ] - creat context succ RSHD=0
+02/05/2021 14:41:29,265 [139871251040000] [INFO ] - rshd:0---addr:10.55.17.126---port:8899
+02/05/2021 14:41:29,265 [139871251040000] [INFO ] - sdk log: Connect robot server success.
+02/05/2021 14:41:29,268 [139871251040000] [INFO ] - sdk log: set dhparam success. type:0, DhParam:0.408000,0.376000,0.098500,0.121500,0.102500,0.094000
+02/05/2021 14:41:29,268 [139871251040000] [INFO ] - sdk log: login  success.
+02/05/2021 14:41:29,269 [139871251040000] [INFO ] - sdk log: login completed, set joint6 retate 360 falg success. joint6Rot360Enable=0
+02/05/2021 14:41:30,385 [139871251040000] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:41:30,385 [139871251040000] [INFO ] - remove client, rshd=0
+02/05/2021 14:41:31,000 [139871197923072] [INFO ] - g_exit_system=1.
+02/05/2021 14:41:31,000 [139871197923072] [INFO ] - robot_event_thread exit.
+02/05/2021 14:41:31,000 [139871197923072] [INFO ] - robot event thread be canceled.
+02/05/2021 14:41:31,000 [139871251040000] [INFO ] - call pyauboi5_uninitialize
+02/05/2021 14:41:31,000 [139871251040000] [INFO ] - call pyauboi5_uninitialize

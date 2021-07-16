@@ -1,0 +1,10 @@
+.catkin_tools/
+.vscode/
+bin/
+build/
+devel/
+install/
+logs/
+res/
+*.swp
+*.pyc

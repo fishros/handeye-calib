@@ -1,0 +1,9 @@
+<launch>
+
+    <include file="$(find handeye-calib)/launch/aruco_start_realsense_sdk.launch" />
+
+    <include file="$(find aubo_comuniate)/launch/aubo_comuniate.launch" />
+
+    <include file="$(find handeye-calib)/launch/aubo_hand_on_eye_calib.launch" />
+
+</launch>

@@ -1,0 +1,15 @@
+<launch>
+    <!-- The arm tool Pose Topic,Use ros geometry_msgs::Pose-->
+    <arg   name="aubo_pose_topic"   default="/aubo_pose" />
+
+    <!-- The arm marker in camera Pose Topic,Use ros geometry_msgs::Pose-->
+    <arg   name="camera_pose_topic"   default="/aruco_single/pose" />
+
+    <!-- <arg   name="camera_pose_topic"   default="/ar_pose_estimate/marker_to_camera" /> -->
+    <node pkg="handeye-calib" type="test_aubo.py" name="test_aubo" output="screen" >
+         <param name="aubo_pose_topic" value="$(arg aubo_pose_topic)" />
+         <param name="camera_pose_topic" value="$(arg camera_pose_topic)" />
+    </node>
+    
+    <!-- <include   > -->
+</launch>

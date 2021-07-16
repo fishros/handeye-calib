@@ -1,0 +1,37 @@
+<launch>
+     <include file="$(find realsense2_camera)/launch/rs_camera.launch">
+        <arg name="color_width" value="1280" />
+        <arg name="color_height" value="720" />
+        <arg name="enable_depth" value="false" />
+     </include>
+
+    <arg name="markerId"        default="1"/>
+    <arg name="markerSize"      default="0.1805"/>    
+    <arg name="eye"             default="left"/>
+    <arg name="marker_frame"    default="aruco_marker_frame"/>
+    <arg name="ref_frame"       default=""/>  
+    <arg name="corner_refinement" default="LINES" /> 
+    
+    <node pkg="aruco_ros" type="single" name="aruco_single">
+        <remap from="/camera_info" to="/camera/color/camera_info" />
+        <remap from="/image" to="/camera/color/image_raw" />
+        <param name="image_is_rectified" value="True"/>
+        <param name="marker_size"        value="$(arg markerSize)"/>
+        <param name="marker_id"          value="$(arg markerId)"/>
+        <param name="reference_frame"    value="$(arg ref_frame)"/> 
+        <param name="camera_frame"       value="stereo_gazebo_$(arg eye)_camera_optical_frame"/>
+        <param name="marker_frame"       value="$(arg marker_frame)" />
+        <param name="corner_refinement"  value="$(arg corner_refinement)" />
+    </node> 
+
+    <!-- <node name="aruco_tcp_publisher" pkg="handeye-calib" type="aruco_tcp_publisher.py" respawn="false" output="screen">
+    </node> -->
+
+    <node name="image_view" pkg="image_view" type="image_view" respawn="false" output="screen">
+        <remap from="image" to="/aruco_single/result"/>
+        <param name="autosize" value="true" />
+    </node>
+
+
+
+</launch>

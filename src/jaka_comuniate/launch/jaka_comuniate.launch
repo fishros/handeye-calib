@@ -1,0 +1,6 @@
+<launch>
+    <arg  name="jaka_host"   default="10.55.17.17" />
+    <node pkg="jaka_comuniate" type="jaka_comuniate" name="jaka_comuniate" output="screen" >
+         <param name="jaka_host" value="$(arg jaka_host)" />
+    </node>
+</launch>

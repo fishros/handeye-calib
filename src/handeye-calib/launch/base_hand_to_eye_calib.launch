@@ -1,0 +1,10 @@
+<launch>
+    <!-- <arg   name="base_handeye_data"   default="The file path of handeye data." /> -->
+    <arg   name="base_handeye_data"   default="$(find handeye-calib)/config/base_hand_to_eye_test_data.csv" />
+    <arg   name="base_handeye_result"   default="$(find handeye-calib)/config/result/base_hand_to_eye_result.txt" />
+
+    <node pkg="handeye-calib" type="base_hand_to_eye_calib.py" name="base_hand_to_eye_calib" output="screen" >
+         <param name="base_handeye_data" value="$(arg base_handeye_data)" />
+         <param name="base_handeye_result" value="$(arg base_handeye_result)" />
+    </node>
+</launch>
